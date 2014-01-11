@@ -1,3 +1,17 @@
-name: Your New Jekyll Site
+name: Lyons In Beta
+description: The blog of David Lyons
+meta_description: "The blog of David Lyons"
+
 markdown: redcarpet
 pygments: true
+excerpt_separator: <!--more-->
+logo: false
+paginate: 10
+permalink: pretty
+twitter: lyonsinbeta
+googleplus: DavidLyons
+
+# Details for the RSS feed generator
+url:            'http://lyonsinbeta.com'
+author:         'David Lyons'
+
