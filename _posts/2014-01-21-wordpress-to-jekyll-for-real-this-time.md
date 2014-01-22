@@ -31,3 +31,7 @@ As for money, Jekyll is free to host if you use the amazing [Github Pages](http:
 
 If you're interested in making the jump I used [this wordpress plugin](https://github.com/benbalter/wordpress-to-jekyll-exporter) to get my posts exported, and after my Jekyll blog was setup I added [the archive](https://gist.github.com/azsromej/1994881) which I found on [this blog](http://crhis.org/2012/07/14/archives.html).
 
+Now I just need to make sure I'm not [the guy who makes everyone drink](https://twitter.com/holman/status/418875911182614529).
+
+![@holman tweet](/assets/post-images/drink-every-time-jekyll.png)
+
