@@ -2,7 +2,7 @@
 title: On MOOCs And Course Quality
 author: David
 layout: post
-permalink: /2012/01/on-moocs-and-course-quality/
+permalink: /2014/01/on-moocs-and-course-quality/
 categories:
   - Uncategorized
 tags:
