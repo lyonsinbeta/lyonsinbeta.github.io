@@ -45,7 +45,7 @@ _and received no credit and were not pursuing a degree._ Doesn't anyone think th
 
 I suppose he also thinks libraries are failures because we aren't all inside pouring over the free learning materials. So to those of you who **do** go to libraries and learn something or teach yourself a skill or just enjoy the available knowledge as a hobby; tough shit. If it isn't education sanctioned by a degree granting institution your learning is worthless!
 
-Even with successful data starring them right in the face, people still dump on online courses because it's in their interest for them to fail. This MOOC, now created and shown to be at least as good as the face to face course (which remember, may be awful but whatever...) is _done now_. It can continue to be offered with minimal facilitation as long as the material is accurate. 
+Even with successful data staring them right in the face, people still dump on online courses because it's in their interest for them to fail. This MOOC, now created and shown to be at least as good as the face to face course (which remember, may be awful but whatever...) is _done now_. It can continue to be offered with minimal facilitation as long as the material is accurate. 
 
 Over and over.
 
