@@ -34,7 +34,7 @@ Why then are these institutions so arrogant that they turn people away, turn mon
 1. institutional inertia
 1. etc.
 
-Institutions that continue with the ivory tower gate keepers of knowledge model are going to find themselves in a very precrious position very soon. And by soon, I mean 10 years ago.
+Institutions that continue with the ivory tower gate keepers of knowledge model are going to find themselves in a very precarious position very soon. And by soon, I mean 10 years ago.
 
 Ok, so [some DRM _is_ hilarious](http://kotaku.com/a-video-game-in-which-you-make-video-games-fights-pirat-484327325).
 
