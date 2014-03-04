@@ -10,8 +10,8 @@ paginate: 10
 permalink: pretty
 twitter: lyonsinbeta
 googleplus: DavidLyons
+exclude: [Rakefile]
 
 # Details for the RSS feed generator
 url:            'http://lyonsinbeta.com'
 author:         'David Lyons'
-
