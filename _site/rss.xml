@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Lyons In Beta</title>
+    <link>http://lyonsinbeta.com</link>
+    <description>The blog of David Lyons</description>
+    <pubDate>Mon, 03 Mar 2014 00:00:00 -0700</pubDate>
+    <item>
+      <title>I Have Plenty of Time, This Just Isn't a Priority</title>
+      <link>http://lyonsinbeta.com/2014/03/i-have-plenty-of-time-this-just-isnt-a-priority</link>
+      <description>&lt;p&gt;I&amp;#39;ve been trying for a long time to get the phrase &amp;quot;I didn&amp;#39;t have time&amp;quot; out of my speech and replace it with (some variation of) &amp;quot;I didn&amp;#39;t make this a priority&amp;quot;. It forces me to be more honest with myself about what I did with my time.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 03 Mar 2014 00:00:00 -0700</pubDate>
+      <dc:date>2014-03-03T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>Flipping Tables Podcast Launched</title>
+      <link>http://lyonsinbeta.com/2014/02/flipping-tables-podcast-launched/</link>
+      <description>&lt;p&gt;&lt;img src=&quot;/assets/post-images/flipping-tables.jpg&quot; alt=&quot;Flipping Tables Podcast logo&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;When you&amp;#39;ve got a lot of projects going on what&amp;#39;s the smartest thing you can do? &lt;em&gt;Add another project&lt;/em&gt;, of course! So I did, and it&amp;#39;s a podcast.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 18 Feb 2014 00:00:00 -0700</pubDate>
+      <dc:date>2014-02-18T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>Institutional Knowledge and Axe Murderers</title>
+      <link>http://lyonsinbeta.com/2014/02/institutional-knowledge-and-axe-murderers/</link>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.&amp;quot; &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Those are wise words to live by, and I think they apply equally well to institutional knowledge.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 10 Feb 2014 00:00:00 -0700</pubDate>
+      <dc:date>2014-02-10T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>The Registrar is DRM for Education</title>
+      <link>http://lyonsinbeta.com/2014/02/the-registrar-is-drm-for-education/</link>
+      <description>&lt;p&gt;The longer I work in higher-ed the more sure I become of the titular fact: the Registrar&amp;#39;s office is the DRM of the educational system.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 05 Feb 2014 00:00:00 -0700</pubDate>
+      <dc:date>2014-02-05T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>On MOOCs And Course Quality</title>
+      <link>http://lyonsinbeta.com/2014/01/on-moocs-and-course-quality/</link>
+      <description>&lt;p&gt;If you are involved in education, technology, or just have been alive in recent years you&amp;#39;ve likely heard of &lt;a href=&quot;http://en.wikipedia.org/wiki/Massive_open_online_course&quot;&gt;MOOCs&lt;/a&gt;. Some people hail them as the savior of higher ed. Some people say they&amp;#39;re a massive waste of resources. Then some other people teach a MOOC and make sweeping and ridiculous generalizations about online education. Guess which one this post is about?&lt;/p&gt;
+</description>
+      <pubDate>Thu, 30 Jan 2014 00:00:00 -0700</pubDate>
+      <dc:date>2014-01-30T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>Google Authorship</title>
+      <link>http://lyonsinbeta.com/2014/01/Google-Authorship/</link>
+      <description>&lt;p&gt;Did you know you can get your face to show up in Google search results for content you&amp;#39;ve authored? It&amp;#39;s true! &lt;a href=&quot;http://googlewebmastercentral.blogspot.com/2011/06/authorship-markup-and-web-search.html&quot;&gt;Google actually anounced this feature quite a while ago&lt;/a&gt;, but I&amp;#39;ve been dragging my feet. Turns out it&amp;#39;s incredibly easy to setup.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 29 Jan 2014 00:00:00 -0700</pubDate>
+      <dc:date>2014-01-29T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>Heroku's Good Guy Email Default</title>
+      <link>http://lyonsinbeta.com/2014/01/heroku-good-guy-email-default/</link>
+      <description>&lt;p&gt;&lt;img src=&quot;%7B%7Bsite.baseurl%7D%7Dassets/post-images/heroku-opt-out-default.png&quot; alt=&quot;Heroku opt-out default&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;I got this email from Heroku recently and it made me smile. I don&amp;#39;t use Heroku heavily so I don&amp;#39;t really want a lot of email from them and it turns out &lt;em&gt;they don&amp;#39;t want to bother people who didn&amp;#39;t ask to be bothered&lt;/em&gt;. What a novel concept.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 27 Jan 2014 00:00:00 -0700</pubDate>
+      <dc:date>2014-01-27T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>Wordpress To Jekyll, For Real This Time</title>
+      <link>http://lyonsinbeta.com/2014/01/wordpress-to-jekyll-for-real-this-time/</link>
+      <description>&lt;p&gt;I&amp;#39;ve tried to use &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; (the static site generator built on ruby) before at least twice and all attempts ended in dismal failure. This time I made the leap and I&amp;#39;m not turning back. Lots of factors came into play but the one that really pushed me over the edge, I&amp;#39;m sorry to say, was &lt;em&gt;money&lt;/em&gt;. &lt;/p&gt;
+</description>
+      <pubDate>Tue, 21 Jan 2014 00:00:00 -0700</pubDate>
+      <dc:date>2014-01-21T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>The LMS Grade Book Isn't Complicated, You Are!</title>
+      <link>http://lyonsinbeta.com/2013/12/the-lms-grade-book-isnt-complicated-you-are/</link>
+      <description>&lt;p&gt;Over the years I have seen thousands of course grade books and a &lt;em&gt;disturbing quantity&lt;/em&gt; have &lt;strong&gt;glaring errors.&lt;/strong&gt; This phenomenon isn&amp;#39;t limited to a specific institution or LMS. Some of them are misuses of the tool, some of them are misunderstandings, and a lot of them are just negligence. The scary part is that this means tens of thousands of inaccurate grades are reported every semester.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 17 Dec 2013 00:00:00 -0700</pubDate>
+      <dc:date>2013-12-17T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>&quot;Digital Native&quot; is a Misnomer</title>
+      <link>http://lyonsinbeta.com/2013/12/digital-native-is-a-misnomer/</link>
+      <description>&lt;p&gt;You know what happens when you have an idea for a post and you sit on it for too long? &lt;a href=&quot;https://www.youtube.com/watch?v=9WVKBAqjHiE&quot;&gt;Someone else gets to it first!&lt;/a&gt; Luckily it happens to be the awesome &lt;a href=&quot;https://www.youtube.com/user/pbsideachannel&quot;&gt;PBS Idea Channel&lt;/a&gt; and they also happen to posit a lot of the same beliefs I have, albeit more democratically than I do.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 11 Dec 2013 00:00:00 -0700</pubDate>
+      <dc:date>2013-12-11T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>Discipline vs Motivation</title>
+      <link>http://lyonsinbeta.com/2013/11/discipline-vs-motivation/</link>
+      <description>&lt;p&gt;I&amp;#39;ve been really digging the &lt;a href=&quot;https://www.google.com/search?q=seinfeld+method&quot;&gt;Seinfeld Productivity Method&lt;/a&gt;. Basically you build habits by not breaking a chain of days you successfully did that habit. What you&amp;#39;re building (through guilt) is discipline, and it&amp;#39;s &lt;em&gt;awesome.&lt;/em&gt;&lt;/p&gt;
+</description>
+      <pubDate>Fri, 29 Nov 2013 00:00:00 -0700</pubDate>
+      <dc:date>2013-11-29T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>TFaaS - Table Flipping as a Service</title>
+      <link>http://lyonsinbeta.com/2013/11/tfaas-table-flipping-as-a-service/</link>
+      <description>&lt;p&gt;&lt;img src=&quot;/assets/post-images/table-flip-twitter.png&quot; alt=&quot;Tweet asking for table flip as a service&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;It started with &lt;a href=&quot;https://twitter.com/rondale_sc/status/395769588320698368&quot;&gt;a tweet&lt;/a&gt;, and now it&amp;#39;s &lt;a href=&quot;http://table-flip.herokuapp.com/&quot;&gt;a reality&lt;/a&gt;.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 20 Nov 2013 00:00:00 -0700</pubDate>
+      <dc:date>2013-11-20T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>Terrible Conference Talks</title>
+      <link>http://lyonsinbeta.com/2013/11/terrible-conference-talks/</link>
+      <description>&lt;p&gt;I&amp;#39;ve attended a variety of conferences; vendor, OSS, education, technology, developer. I&amp;#39;ve delivered a few talks, lead a few discussions, and sat through a &lt;strong&gt;ton&lt;/strong&gt; of sessions and through it all I&amp;#39;ve realized something: most conference talks are terrible. Like &lt;em&gt;really terrible.&lt;/em&gt;&lt;/p&gt;
+</description>
+      <pubDate>Fri, 15 Nov 2013 00:00:00 -0700</pubDate>
+      <dc:date>2013-11-15T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>Dropbox Referrals and Google Adwords</title>
+      <link>http://lyonsinbeta.com/2013/11/dropbox-referrals-and-google-adwords/</link>
+      <description>&lt;p&gt;My hosting company has been sending me promos for Google Adwords for years now, and the trick of buying an ad to get dropbox referral credit seemed like a low risk way to turn an already awesome free Dropbox account into an even awesomer free Dropbox account.&lt;/p&gt;
+</description>
+      <pubDate>Sat, 02 Nov 2013 00:00:00 -0600</pubDate>
+      <dc:date>2013-11-02T00:00:00-06:00</dc:date>
+    </item>
+    <item>
+      <title>Refactoring with Class</title>
+      <link>http://lyonsinbeta.com/2013/10/refactoring-with-class/</link>
+      <description>&lt;p&gt;If you ever want to know if you&amp;#39;re making progress on a skill, go back and look at your earlier work compared to your recent stuff. I was reviewing some of my old scripts on Github and I was surprised how simple and linear they are. They got the job done, but only just barely...&lt;/p&gt;
+</description>
+      <pubDate>Mon, 28 Oct 2013 00:00:00 -0600</pubDate>
+      <dc:date>2013-10-28T00:00:00-06:00</dc:date>
+    </item>
+    <item>
+      <title>One Month with the Crabby Wallet (Updated!)</title>
+      <link>http://lyonsinbeta.com/2013/10/one-month-with-the-crabby-wallet/</link>
+      <description>&lt;p&gt;&lt;img src=&quot;/assets/post-images/crabby-wallet.png&quot; alt=&quot;Crabby Wallet logo&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;I backed the ultra-minimalist &lt;a href=&quot;http://www.crabbygear.com/&quot;&gt;Crabby Wallet&lt;/a&gt; on Kickstarter and (sort of) patiently waited for it to be released. Now that I&amp;#39;ve been using it for a month I&amp;#39;ve formulated some opinions on it.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 15 Oct 2013 00:00:00 -0600</pubDate>
+      <dc:date>2013-10-15T00:00:00-06:00</dc:date>
+    </item>
+    <item>
+      <title>Rejoining the Open Source World</title>
+      <link>http://lyonsinbeta.com/2013/10/rejoining-the-open-source-world/</link>
+      <description>&lt;p&gt;&lt;img src=&quot;https://raw.github.com/github/media/master/logos/github_logo_social_coding_outlined.png&quot; alt=&quot;Github logo&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;After entirely too long since my last &lt;code&gt;git commit -m &amp;quot;Initial Commit&amp;quot;&lt;/code&gt; I&amp;#39;ve finally rejoined the OSS community!&lt;/p&gt;
+</description>
+      <pubDate>Wed, 09 Oct 2013 00:00:00 -0600</pubDate>
+      <dc:date>2013-10-09T00:00:00-06:00</dc:date>
+    </item>
+    <item>
+      <title>Thoughts On Auto-Graded Assessments</title>
+      <link>http://lyonsinbeta.com/2013/05/thoughts-on-auto-graded-assessments/</link>
+      <description>&lt;p&gt;All of the major Learning Management Systems have some sort of assessment tool. It’s a staple of traditional education to, at some point during a class, present students with a list of roughly 25 multiple choice questions to evaluate their mastery of the material. In the bad old days these had to be marked by hand, then later educators were blessed (and students were cursed) by scantrons that could be graded by machine, and for the last decade and a half computer based assessments have become very popular.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 06 May 2013 00:00:00 -0600</pubDate>
+      <dc:date>2013-05-06T00:00:00-06:00</dc:date>
+    </item>
+    <item>
+      <title>Most Successful Tweet</title>
+      <link>http://lyonsinbeta.com/2012/06/most-successful-tweet/</link>
+      <description>&lt;p&gt;As of the time of this writing my &lt;a href=&quot;https://twitter.com/codinghorror/status/218399705791602688&quot;&gt;most successful tweet&lt;/a&gt; is one where I admitted a stupid mistake I made that was apparently quite relatedable. It&amp;#39;s been retweeted over 20 times earned a handful of favorites, and even started a few nice conversations. I think I may have even gained a follower or two.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 29 Jun 2012 00:00:00 -0600</pubDate>
+      <dc:date>2012-06-29T00:00:00-06:00</dc:date>
+    </item>
+    <item>
+      <title>The Bleeding Edge</title>
+      <link>http://lyonsinbeta.com/2012/01/the-bleeding-edge/</link>
+      <description>&lt;p&gt;Ready for some &lt;a href=&quot;http://inception.davepedu.com/&quot;&gt;Inception&lt;/a&gt;? Good.&lt;/p&gt;
+
+&lt;p&gt;I read &lt;a href=&quot;http://tilomitra.com/the-crazy-world-of-code/&quot;&gt;this post&lt;/a&gt; which took special note of &lt;a href=&quot;http://www.zemanta.com/fruitblog/i-bet-you-over-engineered-your-startup/#comment-583120247&quot;&gt;this comment&lt;/a&gt; from &lt;a href=&quot;http://www.zemanta.com/fruitblog/i-bet-you-over-engineered-your-startup/&quot;&gt;this blog post&lt;/a&gt;. The sentiment is that there are just too many &lt;em&gt;great&lt;/em&gt; frameworks, &lt;em&gt;best&lt;/em&gt; languages, and general &lt;em&gt;new hotness&lt;/em&gt; to ever feel on top of things. The comment:&lt;/p&gt;
+</description>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0700</pubDate>
+      <dc:date>2012-01-01T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>Ruby Kernel#Sleep</title>
+      <link>http://lyonsinbeta.com/2012/01/ruby-kernelsleep/</link>
+      <description>&lt;p&gt;While reviewing the &lt;a href=&quot;http://stackoverflow.com/a/10728091/1007711&quot;&gt;answer on a stackoverflow question I posted&lt;/a&gt; I learned a very cool Ruby Kernel method: &lt;a href=&quot;http://www.ruby-doc.org/core-1.9.3/Kernel.html#method-i-sleep&quot;&gt;sleep&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Kernel#Sleep&lt;/code&gt; does pretty much what the name implies; it pauses the interpreter for an indicated amount of seconds (or &lt;em&gt;forever&lt;/em&gt; if no value is passed in). By itself this wasn&amp;#39;t obviously useful to me. Why, I thought, would I want to make my code slower and delay results &lt;strong&gt;and&lt;/strong&gt; prevent interaction? Well if you reviewed the code in the answer above you&amp;#39;d see this:&lt;/p&gt;
+</description>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0700</pubDate>
+      <dc:date>2012-01-01T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>I Don't Know What That Means</title>
+      <link>http://lyonsinbeta.com/2012/01/i-dont-know-what-that-means/</link>
+      <description>&lt;p&gt;While browsing Hacker News I happened upon &lt;a href=&quot;http://www.supercoders.com.au/blog/wewanttogetyouajob.shtml&quot;&gt;this post&lt;/a&gt; about 5 pre-interview questions to weed out subpar developers. From the article:&lt;/p&gt;
+</description>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0700</pubDate>
+      <dc:date>2012-01-01T00:00:00-07:00</dc:date>
+    </item>
+    <item>
+      <title>Development From The Sidelines</title>
+      <link>http://lyonsinbeta.com/2012/01/development-from-the-sidelines/</link>
+      <description>&lt;p&gt;At a certain &lt;a href=&quot;http://www.sakaiproject.org/jasig-sakai-conference-2012&quot;&gt;conference last week&lt;/a&gt; (which I was fortunate enough to &lt;a href=&quot;http://www.slideshare.net/davidpaullyons/common-pitfalls-of-the-sakai-gradebook-13236406&quot;&gt;speak at&lt;/a&gt; I sat in a meeting of the Sakai technical committee. These are the people who drive Sakai. Not just the deciders but the doers. Being new to developing, it was particularly fascinating to see such a large group, all with different backgrounds, incentives, priorities, and views, come together to have these discussions. Sakai is an open source project, so while anyone can contribute there still has to be some kind of governing body.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0700</pubDate>
+      <dc:date>2012-01-01T00:00:00-07:00</dc:date>
+    </item>
+    <dc:date>2014-03-03T00:00:00-07:00</dc:date>
+  </channel>
+</rss>
