@@ -21,7 +21,7 @@ Why should you care about having strong and unique passwords? A different big si
 1. the damage someone can do if they can "be" you on social networking and other public forums is very serious
 1. if bad guys get into your email they basically own you because they can now reset passwords to other things... like your bank
 
-There is no denying it; as security increases, usability decreases. Until we have some sort of un-fakable way of identifying a person we'll probably keep using the username/password combo, and as long as we have usernames and passwords people will use `password` or `fido1` and other crappy guessables. (Sorry to all the people who's passwords I just posted.)
+There is no denying it; as security increases, usability decreases. Until we have some sort of un-fakable way of identifying a person we'll probably keep using the username/password combo, and as long as we have usernames and passwords people will use `password` or `fido1` and other crappy guessables. (Sorry to all the people whose passwords I just posted.)
 
 Fortunately password managers are a thing, and they're dirt cheap and pretty simple. I use [LastPass](https://lastpass.com) myself because it works everywhere. Recently I went through the Security Check they offer and I was repulsed by my results. I had duplicates! And weak passwords! **Unacceptable!**
 
