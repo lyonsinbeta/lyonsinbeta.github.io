@@ -8,7 +8,15 @@
     <title>Lyons In Beta</title>
     <link>http://lyonsinbeta.com</link>
     <description>The blog of David Lyons</description>
-    <pubDate>Mon, 03 Mar 2014 00:00:00 -0700</pubDate>
+    <pubDate>Wed, 19 Mar 2014 00:00:00 -0600</pubDate>
+    <item>
+      <title>Walking the Security Walk</title>
+      <link>http://lyonsinbeta.com/2014/03/walking-the-security-walk</link>
+      <description>&lt;p&gt;Almost every day I witness security atrocities: weak passwords, using the same password on every site, unlocked smartphones, unprotected wifi, people walking away from unlocked computers, and one of the worst of all, &lt;em&gt;sharing passwords&lt;/em&gt;.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 19 Mar 2014 00:00:00 -0600</pubDate>
+      <dc:date>2014-03-19T00:00:00-06:00</dc:date>
+    </item>
     <item>
       <title>I Have Plenty of Time, This Just Isn't a Priority</title>
       <link>http://lyonsinbeta.com/2014/03/i-have-plenty-of-time-this-just-isnt-a-priority</link>
@@ -211,6 +219,6 @@
       <pubDate>Sun, 01 Jan 2012 00:00:00 -0700</pubDate>
       <dc:date>2012-01-01T00:00:00-07:00</dc:date>
     </item>
-    <dc:date>2014-03-03T00:00:00-07:00</dc:date>
+    <dc:date>2014-03-19T00:00:00-06:00</dc:date>
   </channel>
 </rss>
