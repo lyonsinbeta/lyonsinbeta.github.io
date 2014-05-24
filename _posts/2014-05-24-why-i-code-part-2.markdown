@@ -9,7 +9,7 @@ tags:
   -
 ---
 
-[Early this month I wrote a post about why I code](lyonsinbeta.com/2014/05/why-i-code/) (tl;dr time is valuable to me), but there is another equally important reason I appreciate software: _human error._ Right or wrong, computers only do what we tell them, whereas people do basically whatever the hell they want and frequently aren't even aware of what they're doing. Guess which one causes more problems?
+[Early this month I wrote a post about why I code](http://lyonsinbeta.com/2014/05/why-i-code/) (tl;dr time is valuable to me), but there is another equally important reason I appreciate software: _human error._ Right or wrong, computers only do what we tell them, whereas people do basically whatever the hell they want and frequently aren't even aware of what they're doing. Guess which one causes more problems?
 
 <!--more-->
 
