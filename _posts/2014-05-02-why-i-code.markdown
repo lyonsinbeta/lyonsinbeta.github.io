@@ -17,7 +17,7 @@ The reason can be summed up thusly:
 >
 >-- David Lyons
 
-<!--more-->
+
 
 There are lots of _other_ reasons:
 
@@ -32,7 +32,7 @@ But none of these other reasons matter because I'd still do it if all it did was
 
 Every time I catch myself doing some repetitive task that is a prime candidate for automation I am first angry that I didn't identify the task as an automation candidate earlier and then elated that this task I hate is an automation candidate _then I automate it because time is valuable to me._
 
-![Geeks and Repetitive Tasks](/assets/post-images/repetitive-tasks.png)
+![Geeks and Repetitive Tasks](/post-images/repetitive-tasks.png)
 
 Of course there are lots of other things about coding that are fun and interesting: solving real problems, furthering mankind's understanding of the universe, making reddit bots, but if all I ever get out of coding is making my own life easier (I don't have to do the task anymore), faster (robots are faster than I am at most things), and less error prone (don't get me started on human error) then that is reason enough for me.
 

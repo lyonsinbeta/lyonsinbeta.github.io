@@ -10,7 +10,7 @@ tags:
 ---
 If you are involved in education, technology, or just have been alive in recent years you've likely heard of [MOOCs](http://en.wikipedia.org/wiki/Massive_open_online_course). Some people hail them as the savior of higher ed. Some people say they're a massive waste of resources. Then some other people teach a MOOC and make sweeping and ridiculous generalizations about online education. Guess which one this post is about?
 
-<!--more-->
+
 
 This post has been a long time coming, but it was finally brought out of me in response to [an article on dailycamera.com](http://www.dailycamera.com/cu-news/ci_24940918/cu-boulder-learning-its-own-lessons-from-online) about MOOCs offered by CU Boulder. 
 

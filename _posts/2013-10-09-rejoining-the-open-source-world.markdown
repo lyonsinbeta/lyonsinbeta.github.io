@@ -12,7 +12,7 @@ tags:
 
 After entirely too long since my last `git commit -m "Initial Commit"` I've finally rejoined the OSS community!
 
-<!--more-->
+
 
 I've dabbled with code for several years now but it's not something I do full time, or even for pay (directly.) Oddly, I actually am fulfilling the dream of every teach-yourself-to-code startup and using code not to become rich and famous, but to make my life easier. I make little scripts here and there to make myself or my colleagues more efficient, but I don't write what most developers would consider "real software".
 

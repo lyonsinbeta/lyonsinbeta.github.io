@@ -10,7 +10,7 @@ tags:
 ---
 Over the years I have seen thousands of course grade books and a *disturbing quantity* have **glaring errors.** This phenomenon isn't limited to a specific institution or LMS. Some of them are misuses of the tool, some of them are misunderstandings, and a lot of them are just negligence. The scary part is that this means tens of thousands of inaccurate grades are reported every semester.
 
-<!--more-->
+
 
 [I gave a talk at Jasig Sakai 2012](https://speakerdeck.com/davidpaullyons/common-pitfalls-of-the-sakai-gradebook) about common pitfalls of the grade book but a more accurate title would have been *"You Suck At Grading And You're Terrible For Not Caring More"*, though that talk would have had a harder time getting accepted. The reality of the situation is the grade book tools in all the various LMSs I've used are not that complicated, but instructors make them complicated. Here are some poor decisions I see frequently:
 

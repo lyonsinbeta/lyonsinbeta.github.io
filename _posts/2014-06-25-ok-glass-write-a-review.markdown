@@ -11,7 +11,7 @@ tags:
 
 Hello. My name is David and I am a Glasshole. I realize after a month with Glass you get that monicker whether you use Glass obnoxiously or if you just quietly go about your business with it. That's _one_ of the issues with Glass but it's not the only issue.
 
-<!--more-->
+
 
 ## The Bad
 

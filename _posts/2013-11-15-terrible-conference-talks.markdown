@@ -11,7 +11,7 @@ tags:
 ---
 I've attended a variety of conferences; vendor, OSS, education, technology, developer. I've delivered a few talks, lead a few discussions, and sat through a **ton** of sessions and through it all I've realized something: most conference talks are terrible. Like *really terrible.*
 
-<!--more-->
+
 
 Here is (some of) what makes a good talk:
 

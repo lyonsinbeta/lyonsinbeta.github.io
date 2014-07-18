@@ -10,7 +10,7 @@ tags:
 ---
 You know what happens when you have an idea for a post and you sit on it for too long? [Someone else gets to it first!](https://www.youtube.com/watch?v=9WVKBAqjHiE) Luckily it happens to be the awesome [PBS Idea Channel](https://www.youtube.com/user/pbsideachannel) and they also happen to posit a lot of the same beliefs I have, albeit more democratically than I do.
 
-<!--more-->
+
 
 You see, while they have opened a discussion around the idea of the [Digital Native](http://en.wikipedia.org/wiki/Digital_native), I flat out disagree with it. Working in Academic Technology gives me an excellent view of both stereotyped groups (young and naturally gifted with technology versus old and hopeless with technology) and I'm prepared to tell you they're totally wrong!
 

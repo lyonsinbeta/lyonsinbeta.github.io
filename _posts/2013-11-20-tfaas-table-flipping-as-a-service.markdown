@@ -6,11 +6,11 @@ permalink: /2013/11/tfaas-table-flipping-as-a-service/
 categories:
   - Uncategorized
 ---
-![Tweet asking for table flip as a service](/assets/post-images/table-flip-twitter.png)
+![Tweet asking for table flip as a service](/post-images/table-flip-twitter.png)
 
 It started with [a tweet](https://twitter.com/rondale_sc/status/395769588320698368), and now it's [a reality](http://table-flip.herokuapp.com/).
 
-<!--more-->
+
 
 It can be difficult to figure out what to work on next when you're not a full time developer. With the need for code coming randomly at work, and no passion project on my plate, the time between focused visits to Vim can be too far between for my liking. Fortunately there are those little jokes that just scream "I know this is dumb, build it anyway," and [build it I did](https://github.com/lyonsinbeta/table-flip)!
 

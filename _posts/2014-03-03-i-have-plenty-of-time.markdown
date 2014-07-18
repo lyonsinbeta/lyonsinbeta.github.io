@@ -11,7 +11,7 @@ tags:
 
 I've been trying for a long time to get the phrase "I didn't have time" out of my speech and replace it with (some variation of) "I didn't make this a priority". It forces me to be more honest with myself about what I did with my time.
 
-<!--more-->
+
 
 When someone says "I didn't have time" they're probably saying one of the following:
 

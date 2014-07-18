@@ -1,0 +1,40 @@
+<footer class="site-footer">
+
+  <div class="wrap">
+
+    <h2 class="footer-heading">Thanks for stopping by</h2>
+
+    <div class="footer-col-1 column">
+      <ul>
+        <li>I think you're great.<br>I don't care what anyone else says.</li>
+      </ul>
+    </div>
+
+    <div class="footer-col-2 column">
+      <ul class="fa-ul">
+        {% if site.github_username %}<li><i class="fa-li fa fa-lg fa-github-alt"></i>
+          <a href="https://github.com/{{ site.github_username }}">
+            <span class="username">{{ site.github_username }}</span>
+          </a>
+        </li>{% endif %}
+        {% if site.twitter_username %}<li><i class="fa-li fa fa-lg fa-twitter"></i>
+          <a href="https://twitter.com/{{ site.twitter_username }}">
+            <span class="username">{{ site.twitter_username }}</span>
+          </a>
+        </li>{% endif %}
+        {% if site.googleplus_username %}<li><i class="fa-li fa fa-lg fa-google-plus-square"></i>
+          <a href="https://plus.google.com/+{{ site.googleplus_username }}">
+            <span class="username">{{ site.googleplus_username }}</span>
+          </a>
+        </li>{% endif %}
+        <li><i class="fa-li fa fa-lg fa-microphone"></i><a href="//flippingtablespodcast.com">Flipping Tables podcast</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-col-3 column">
+      <p class="text">{{ site.description }}</p>
+    </div>
+
+  </div>
+
+</footer>

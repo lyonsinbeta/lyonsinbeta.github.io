@@ -10,7 +10,7 @@ tags:
 ---
 I've tried to use [Jekyll](http://jekyllrb.com/) (the static site generator built on ruby) before at least twice and all attempts ended in dismal failure. This time I made the leap and I'm not turning back. Lots of factors came into play but the one that really pushed me over the edge, I'm sorry to say, was _money_. 
 
-<!--more-->
+
 
 My hosting was coming up for renewal and the prospect of spending on it (even if it is cheap, all things considered) did not sit well. I used my hosting provider **exclusively** for my blog and there are any number of free alternatives.
 
@@ -33,5 +33,5 @@ If you're interested in making the jump I used [this wordpress plugin](https://g
 
 Now I just need to make sure I'm not [the guy who makes everyone drink](https://twitter.com/holman/status/418875911182614529).
 
-![@holman tweet](/assets/post-images/drink-every-time-jekyll.png)
+![@holman tweet](/post-images/drink-every-time-jekyll.png)
 

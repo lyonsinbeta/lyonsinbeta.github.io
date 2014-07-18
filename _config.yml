@@ -1,17 +1,13 @@
-name: Lyons In Beta
-description: The blog of David Lyons
-meta_description: "The blog of David Lyons"
+# Site settings
+title: The Blog of David Lyons
+email: hi@lyonsinbeta.com
+description:
+baseurl: ""
+url: "http://lyonsinbeta.com"
+twitter_username: lyonsinbeta
+googleplus_username: DavidLyons
+github_username:  lyonsinbeta
 
-markdown: redcarpet
-pygments: true
-excerpt_separator: <!--more-->
-logo: false
-paginate: 10
+# Build settings
+markdown: kramdown
 permalink: pretty
-twitter: lyonsinbeta
-googleplus: DavidLyons
-exclude: [Rakefile]
-
-# Details for the RSS feed generator
-url:            'http://lyonsinbeta.com'
-author:         'David Lyons'

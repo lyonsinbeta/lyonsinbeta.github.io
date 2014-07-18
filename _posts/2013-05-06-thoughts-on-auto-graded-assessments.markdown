@@ -10,7 +10,7 @@ tags:
 ---
 All of the major Learning Management Systems have some sort of assessment tool. It’s a staple of traditional education to, at some point during a class, present students with a list of roughly 25 multiple choice questions to evaluate their mastery of the material. In the bad old days these had to be marked by hand, then later educators were blessed (and students were cursed) by scantrons that could be graded by machine, and for the last decade and a half computer based assessments have become very popular.
 
-<!--more-->
+
 
 Computer based assessments have all of the perks of paper multiple choice tests; easy to grade, familiar format, uniform, as well as the central perk of scantrons; automatic grading, and they have the added bonus of not wasting paper! Another amazing benefit is decentralized delivery, students don’t have to be present to take an assessment.
 

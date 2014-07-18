@@ -13,7 +13,7 @@ While reviewing the [answer on a stackoverflow question I posted](http://stackov
 
 `Kernel#Sleep` does pretty much what the name implies; it pauses the interpreter for an indicated amount of seconds (or *forever* if no value is passed in). By itself this wasn't obviously useful to me. Why, I thought, would I want to make my code slower and delay results **and** prevent interaction? Well if you reviewed the code in the answer above you'd see this:
 
-<!--more-->
+
 
     Thread.new do
       loop do

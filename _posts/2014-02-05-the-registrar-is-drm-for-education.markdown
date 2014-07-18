@@ -11,7 +11,7 @@ tags:
 
 The longer I work in higher-ed the more sure I become of the titular fact: the Registrar's office is the DRM of the educational system.
 
-<!--more-->
+
 
 Think about how DRM works on software and other digital purchases
 

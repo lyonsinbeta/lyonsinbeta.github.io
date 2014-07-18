@@ -11,7 +11,7 @@ tags:
 
 [Early this month I wrote a post about why I code](http://lyonsinbeta.com/2014/05/why-i-code/) (tl;dr time is valuable to me), but there is another equally important reason I appreciate software: _human error._ Right or wrong, computers only do what we tell them, whereas people do basically whatever the hell they want and frequently aren't even aware of what they're doing. Guess which one causes more problems?
 
-<!--more-->
+
 
 I've spent all of my professional career in academia, which is the only organizational culture that gives politics a run for it's money on red tape and nonsense. Human error comes into play is when we take our beautiful, powerful, super-magic-future tools and use them as glorified typewriters. Got a survey to send out? Let's do it on paper and then transcribe the results! Got thousands of records to make minor changes to? Sounds like a job that needs to be spread out over days or weeks as each row is changed in excel by hand. Need to coordinate a meeting with a large number of busy colleagues? Plain text emails to the rescue!
 

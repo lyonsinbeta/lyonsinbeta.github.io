@@ -13,7 +13,7 @@ tags:
 
 Those are wise words to live by, and I think they apply equally well to institutional knowledge.
 
-<!--more-->
+
 
 According to [Stack Overflow](http://stackoverflow.com/questions/876089/who-wrote-this-programing-saying-always-code-as-if-the-guy-who-ends-up-maintai) the above quote is attributed to [John F. Woods on a **1991** forum post](https://groups.google.com/forum/#!msg/comp.lang.c++/rYCO5yn4lXw/oITtSkZOtoUJ). It's pretty well known in developer circles, but I think it should be slightly augmented and posted on the walls of offices everywhere:
 

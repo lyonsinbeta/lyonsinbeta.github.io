@@ -11,7 +11,7 @@ tags:
 
 I could make the title slightly longer and say that _constantly_ over promising makes me hate you _eventually_, but it's long enough and true enough.
 
-<!--more-->
+
 
 We deal with over promising all the time in advertising and casual conversation:
 
@@ -27,7 +27,7 @@ But those are ads and conversations with friends. We **know** they're hyperbolic
 
 Things happen. People make mistakes. There are _unknown unknowns_. I get that.
 
-![Demotivational Poster: Unknown Unknowns](/assets/post-images/unknown-unknowns.jpg)
+![Demotivational Poster: Unknown Unknowns](/post-images/unknown-unknowns.jpg)
 
 But people who constantly and wildly over promise aren't optimistic fools, they aren't just unable to assess a situation before they predict an outcome; they're inconsiderate at best and outright liars at worst. Everyone knows someone like this: the friend who is always late and brimming with excuses, Dante's boss in _Clerks_ always making him work on his "day off". It's annoying. It's unacceptable. It needs to stop.
 

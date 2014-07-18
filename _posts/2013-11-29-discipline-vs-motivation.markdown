@@ -10,7 +10,7 @@ tags:
 ---
 I've been really digging the [Seinfeld Productivity Method](https://www.google.com/search?q=seinfeld+method). Basically you build habits by not breaking a chain of days you successfully did that habit. What you're building (through guilt) is discipline, and it's *awesome.*
 
-<!--more-->
+
 
 Maybe "guilt" is a little heavy handed, but when you see that chain of days you've been exercising and today you don't feel like exercising what do you do? Do you break the chain? **Hell no!** You get off your ass and exercise. The same goes for any other habits you're trying to build; writing, programming, practicing something, etc. There is a lot of debate about the best way to keep track of your chain, but I've been enjoying [lift.do](http://lift.do) which has a web app and mobile app. (And if you want to give me props, here is [my profile](https://lift.do/users/fbd1b72164f0db87be5b).
 

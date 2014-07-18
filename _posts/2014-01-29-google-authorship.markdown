@@ -10,7 +10,7 @@ tags:
 ---
 Did you know you can get your face to show up in Google search results for content you've authored? It's true! [Google actually anounced this feature quite a while ago](http://googlewebmastercentral.blogspot.com/2011/06/authorship-markup-and-web-search.html), but I've been dragging my feet. Turns out it's incredibly easy to setup.
 
-<!--more-->
+
 
 Now (actually within a few days, according to Google) when one of my blog posts comes up in Google search results, it'll be accompanied by my G+ profile photo. Neat.
 
@@ -33,6 +33,6 @@ It's simple to setup too, from [Google's webmaster tools site](https://support.g
 Side note about the profile URL: custom URLs only partially work. Even though `google.com/+DavidLyons` will take you to my profile, the authorship feature only works with `plus.google.com/+DavidLyons`.
 
 You can check if it's setup correctly, and see what it will look like, using the [Structured Data Tool](http://www.google.com/webmasters/tools/richsnippets)
-![Google Authorship Preview]({{ site.baseurl }}assets/post-images/google-authorship.png)
+![Google Authorship Preview]({{ site.baseurl }}/post-images/google-authorship.png)
 
 Just what the internet needs, more of my face.

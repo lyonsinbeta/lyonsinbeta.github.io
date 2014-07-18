@@ -10,7 +10,7 @@ tags:
 ---
 While browsing Hacker News I happened upon [this post](http://www.supercoders.com.au/blog/wewanttogetyouajob.shtml) about 5 pre-interview questions to weed out subpar developers. From the article:
 
-<!--more-->
+
 
 > Here are the first few questions we ask, and we estimate maybe only 1 in 200 software developer job applicants can give accurate, clear and concise answers to all these questions:
 > 

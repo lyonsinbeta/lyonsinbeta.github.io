@@ -11,7 +11,7 @@ tags:
 ---
 If you ever want to know if you're making progress on a skill, go back and look at your earlier work compared to your recent stuff. I was reviewing some of my old scripts on Github and I was surprised how simple and linear they are. They got the job done, but only just barely...
 
-<!--more-->
+
 
 Now I'm not a full time coder, so I haven't exactly gone pro since then, but I have moved from the ultra simple scripts of yore, to more intelligently formatted and reusable code.
 

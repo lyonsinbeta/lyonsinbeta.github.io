@@ -6,11 +6,11 @@ permalink: /2013/10/one-month-with-the-crabby-wallet/
 categories:
   - Uncategorized
 ---
-![Crabby Wallet logo](/assets/post-images/crabby-wallet.png)
+![Crabby Wallet logo](/post-images/crabby-wallet.png)
 
 I backed the ultra-minimalist [Crabby Wallet](http://www.crabbygear.com/) on Kickstarter and (sort of) patiently waited for it to be released. Now that I've been using it for a month I've formulated some opinions on it.
 
-<!--more-->
+
 
 I'm a big fan on minimalist and utilitarian things. The wallet I'd been carrying (a tired leather front-pocket affair that was seriously worn out) needed to be replaced and that's when I found the Crabby Wallet. But what is it?
 
@@ -28,7 +28,7 @@ Overall I'm pretty happy with it. Once I solve my RFID problem I think I'll be g
 
 So this happened about a week ago:
 
-![Busted Crabby wallet](/assets/post-images/busted-crabby-wallet.png)
+![Busted Crabby wallet](/post-images/busted-crabby-wallet.png)
 
 which is annoying because I haven't used the key loop *even once.* Although it could just be a one-off defect and isn't necessarily a product flaw, I'm overall not in love with this wallet enough to break in another one and find out. Fortunately the good people at their support desk walked me through returning the wallet and getting a refund.
 
