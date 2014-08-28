@@ -34,3 +34,7 @@ Now that I have a (tenuous) handle on what logging is all about, particularly fo
 - write to the logger object via the class method from wherever you need to within your application
 
 This solutions gives you one, consistently formatted log, that you can write to from anywhere in your application, and doesn't necessitate instantiating tons of logger objects or including logger methods in all your classes. This solution would probably blow up on a complicated or high load application, but as [Time Pease](http://pea53.com/) said in the Ruby Rouges podcast above: "do what works until it doesn't."
+
+---
+
+**Update 2014-08-28:** I wrote _even more_ words about logging in the form of a tutorial. Now that you're done here, check out _[All Rubyists Love Logging](http://www.sitepoint.com/rubyists-love-logging/)_ on SitePoint.
