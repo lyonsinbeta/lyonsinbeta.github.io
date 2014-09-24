@@ -33,6 +33,6 @@ The iterations of my blog over the years has almost always had comments enabled.
 
 **How very zen.**
 
-Want to vehemently agree with me? Want to tell me how wrong I am? Want more updates about my beard? Follow me on [twitter](//twitter.com/lyonsinbeta) and [Google+](//google.com/+DavidLyons)
+Want to vehemently agree with me? Want to tell me how wrong I am? Want more updates about my beard? Follow me on [twitter](//twitter.com/lyonsinbeta) and [Google+](//google.com/+DavidLyons).
 
 <sup>1</sup> I know this flys in the face of data scientists and big data and analytics. There are interesting things to be learned from observing our habits and behaviors, but there is plenty of self-reflection and personal growth to be done without pouring over your Facebook likes. Particularly when you consider that "liking" something on Facebook, "+1ing" something on Google+, or "favoriting" something on twitter has no consistent and predictable meaning person to person or even the same person time to time.
