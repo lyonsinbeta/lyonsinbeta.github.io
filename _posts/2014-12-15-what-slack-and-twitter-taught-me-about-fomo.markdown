@@ -11,7 +11,7 @@ tags:
 
 FOMO (*F*ear *O*f *M*issing *O*ut) is a very real concern in these days of unlimited information and connectivity. It seems like an almost daily occurance you either say or have someone say to you "Oh! You haven't heard/read/seen that?! ZOMG!" I'm as guilty of this as anyone, but it's kind of a negative attitude. I've been working to 1. _stop being that guy_ and 2. stop caring when I miss *the most totally awesome thing ever.*
 
-[![http://imgs.xkcd.com/comics/ten_thousand.png](Ten Thousand)](http://xkcd.com/1053/)
+[![Ten Thousand](http://imgs.xkcd.com/comics/ten_thousand.png)](http://xkcd.com/1053/)
 
 I used to have _all the things_ notify me of _all the things_ so I would never miss anything. I also obsessed about reading my whole twitter timeline. These are fool's errands. Not only are you never going to catch everything, but constant buzzing and beeping makes getting anything done pretty much impossible. That's why I changed my IM to Slack, and changed how I use Twitter.
 
