@@ -8,7 +8,7 @@ categories:
 tags:
   -
 ---
-![H3LiOS, adorable robo-mascot for Sunrise Robot](/post-images/sunriserobot_social.png)
+<img src="/post-images/sunriserobot_social.png" alt="H3LiOS, adorable robo-mascot for Sunrise Robot" style="max-width: 100%;">
 
 This is H3LiOS, the mascot for [Sunrise Robot](http://sunriserobot.net).
 
