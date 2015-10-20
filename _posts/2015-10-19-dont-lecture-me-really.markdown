@@ -13,4 +13,4 @@ Molly Worthen almost admits as much herself near the end of the article (emphasi
 
 ---
 
-Read [Lecture Me. Really](http://www.nytimes.com/2015/10/18/opinion/sunday/lecture-me-really.html) on nytimes.com.
+Read [Lecture Me. Really.](http://www.nytimes.com/2015/10/18/opinion/sunday/lecture-me-really.html) on nytimes.com.
