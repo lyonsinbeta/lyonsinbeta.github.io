@@ -11,7 +11,7 @@ I've (begrudgingly) been a Comcast customer for a long time and I have outages r
 
 _Note: @xfinity has since deleted this promoted tweet._
 
-Particularly considering the fact that [Google apologized and credit effected customers for the outage](http://www.pcmech.com/article/google-fiber-goes-down-in-kc-during-world-series-gives-customers-2-days-credit/).
+Particularly considering the fact that [Google apologized and credited effected customers for the outage](http://www.pcmech.com/article/google-fiber-goes-down-in-kc-during-world-series-gives-customers-2-days-credit/).
 
 We're all waiting for our checks, Comcast.
 
