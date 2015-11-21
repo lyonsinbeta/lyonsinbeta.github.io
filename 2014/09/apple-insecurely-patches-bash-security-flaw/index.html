@@ -4,10 +4,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>The Blog of David Lyons</title>
+    <title>Apple Insecurely Patches Bash Security Flaw</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="">
-    <link rel="canonical" href="http://lyonsinbeta.com/404.html">
+    <link rel="canonical" href="http://lyonsinbeta.com/2014/09/apple-insecurely-patches-bash-security-flaw/">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/main.css">
@@ -48,11 +48,37 @@
 
     <div class="page-content">
       <div class="wrap">
-      <div class="home">
+      <div class="post">
 
-  <h1>404!</h1>
+  <header class="post-header">
+    <h1>Apple Insecurely Patches Bash Security Flaw</h1>
+    <!-- <p class="meta">2014-09-29</p> -->
+  </header>
 
-  <p>Dreadfully sorry my dear, but the thing you were looking for was not found. Maybe head to the <a href="" title="lyonsinbeta.com">homepage</a> and try again?</p>
+  <article class="post-content">
+  <p>Everyone is reporting that Apple has issued a patch for the bash bug known as <em>shellshock</em>.</p>
+
+<p><a href="http://arstechnica.com/apple/2014/09/apple-patches-shellshock-bash-bug-in-os-x-10-9-10-8-and-10-7/"><strong>arstechnica</strong></a></p>
+
+<blockquote>
+  <p>The OS X update wasn’t yet available from Software Update on our Mavericks system when we checked, but in the meantime you can grab the Mavericks, Mountain Lion, and Lion versions of the patch manually from Apple’s software downloads site.</p>
+</blockquote>
+
+<p><a href="http://appleinsider.com/articles/14/09/29/apple-releases-bash-update-to-plug-shellshock-flaw"><strong>appleinsider</strong></a></p>
+
+<blockquote>
+  <p>Mac owners running Mavericks can download the 3.4MB patch through Apple Support website, as can users operating Mountain Lion and Lion. For Mountain Lion, the fix comes in at 34.3MB, while the Lion download clocks in at 3.5MB. Alternatively, the patch is available through Software Update.</p>
+</blockquote>
+
+<p><a href="http://9to5mac.com/2014/09/29/apple-releases-os-x-bash-update-1-0-addressing-shellshock-vulnerability/"><strong>9TO5Mac</strong></a></p>
+
+<blockquote>
+  <p>For users on older versions of OS X, the Mavericks fix will not work. To secure those systems, there are separate downloads for Lion and Mountain Lion. The patch will likely be available through the built-in OS X Software Update mechanism soon.</p>
+</blockquote>
+
+<p>Oddly, the patch (available only on Apple’s website and not through the app store as of the time of this writing) is served over a standard http connection which means it’s subject to a man in the middle attack. Fine? Maybe, but why gamble on security ever? Particularly when issuing <em>security patches.</em></p>
+
+  </article>
 
 </div>
 

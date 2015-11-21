@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Building Sunrise Robot</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="">
+    <link rel="canonical" href="http://lyonsinbeta.com/2015/02/building-sunrise-robot">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+</head>
+
+
+    <body>
+
+    <header class="site-header">
+
+  <div class="wrap">
+
+    <a class="site-title" href="/">The Blog of David Lyons</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <i class="fa fa-lg fa-bars"></i>
+      </a>
+      <div class="trigger">
+        
+          
+        
+          <a class="page-link" href="/about/">About</a>
+        
+          
+        
+          
+        
+        <a class="page-link" href="/rss.xml"><i class="fa fa-lg fa-rss"></i></a>
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrap">
+      <div class="post">
+
+  <header class="post-header">
+    <h1>Building Sunrise Robot</h1>
+    <!-- <p class="meta">2015-02-03</p> -->
+  </header>
+
+  <article class="post-content">
+  <p><img src="/post-images/sunriserobot_social.png" alt="H3LiOS, adorable robo-mascot for Sunrise Robot" style="max-width: 100%;" /></p>
+
+<p>This is H3LiOS, the mascot for <a href="http://sunriserobot.net">Sunrise Robot</a>.</p>
+
+<p>What is Sunrise Robot? It’s a podcast network of shows for technologists, gamers, artists and cultural enthusiasts. It was founded by me and my co-host on <a href="http://sunriserobot.net/flippingtables">Flipping Tables</a>, <a href="http://pseudomichael.com">Michael Edwards</a>. It’s awesome and you should totally <a href="http://sunriserobot.net">go check it out</a>, listen, subscribe, and maybe even <a href="http://patreon.com/sunriserobot">support us</a>. But that’s not what this post is about. This post is about the stack we used to build Sunrise Robot.</p>
+
+<p>When we decided to build this thing we knew we had a lot of decisions to make. And the internet being the way it is meant there is no shortage of opinions on the Best Way™ to do it. The three areas we had to primarily make choices in were:</p>
+
+<ol>
+  <li>CDN</li>
+  <li>web host</li>
+  <li>CMS</li>
+</ol>
+
+<p>We immediately found that all of these areas overlap to a huge extent. We could have just done a one-click install of wordpress on literally <em>any</em> hosting service, started uploading episodes to their “unlimited” storage, and called it a day. In return for the ease of setting that up we would be making a lot of trade offs. Let’s look at each piece.</p>
+
+<h2 id="cdn">CDN</h2>
+
+<p>A CDN (content delivery network) is just a place to store and serve files on the surface. For a podcast (or podcast network like Sunrise Robot) we also need industry-reliable data about each episode’s performance.</p>
+
+<p>When we launched Flipping Tables in the beginning of 2014 we just hosted in Dropbox. Free? Reliable(ish)? Easy to use? It’s a great tool to use at first, but you give up a lot. It doesn’t scale because it’s not meant for content delivery at scale. It doesn’t give you any control over the URLs of your files. It doesn’t give you any info about file activity. These problems are true of any similar service as well like Google Drive/Copy/etc.</p>
+
+<p>Then there is “unlimited” web hosting but aside from control over the URLs there isn’t really much advantage over Dropbox.</p>
+
+<h3 id="so-we-went-with">So we went with…</h3>
+
+<p>Libsyn. Industry-trusted analytics, works at scale, and fairly priced. It took me a minute to fully understand “monthly storage” but for a service like Libsyn is makes sense. Flipping Tables has been on Libsyn since mid-November and it’s been working great. It’s worth noting that Libsyn also provides webpage and feed services but you can use them for just file hosting/analytics which makes a lot more sense when you want control over your host and CMS.</p>
+
+<h2 id="web-host">Web host</h2>
+
+<p>Web hosts are a dime a dozen. From cheap-o free services to shared hosting; from super high performance private servers to full stack solutions like wordpress.com or Squarespace.</p>
+
+<p>Full stack solutions mean using the included CMS. We considered wordpress and Squarespace but they just weren’t quite right for our needs. By the time we cut out the cruft and hacked in the features we needed it didn’t make sense to use a plug-and-play solution that really wasn’t.</p>
+
+<p>Shared hosting has a bad reputation for the ridiculous number of asterisks on their unlimited plans. I think a big part of this bad reputation comes from the glut of wordpress sites in the last ten years. The sheer number of “how to speed up wordpress” posts, caching plugins, and the more recent popularization of static site builders is a testament to how difficult it is to run a full features CMS on shared hosting.</p>
+
+<h3 id="so-we-went-with-1">So we went with…</h3>
+
+<p>It is <em>really</em> affordable though and if you aren’t using a database driven CMS it is actually a pretty decent option. So how are we managing content without a CMS?</p>
+
+<h2 id="cms">CMS</h2>
+
+<p>Content Management Systems are what we like to call a “solved problem” for the most part. For the majority of websites the right answer is either “Just use Squarespace” or “Just use Wordpress”. There are others but seriously; a ridiculous amount of the internet is run on those two platforms.</p>
+
+<p>For us and for Sunrise Robot neither of those really fit. We needed something fast and light weight. We were willing to do work to customize it but we agreed our needs were simple enough that building up would be easier than tearing down. I’ve been using <a href="http://jekyllrb.com">Jekyll</a> as a static site generator for a couple years and was curious about <a href="http://middlemanapp.com">Middleman</a>. After some poking around the docs and setting up a few test sites I was sold.</p>
+
+<h3 id="so-we-went-with-2">So we went with…</h3>
+
+<p>Middleman. It’s powerful, flexible, and gave me a damn fine excuse to sharpen my skills.</p>
+
+<h2 id="announcing-sunrise-robot">Announcing Sunrise Robot</h2>
+
+<p>It’s been a long road getting here, and this is just the beginning. We’ve learned a lot, and can’t wait to see what the future holds. <a href="http://sunriserobot.net">Sunrise robot officially launches <em>today</em> so go check it out</a>! And if you want to know more, check out Mike’s post about <a href="http://pseudomichael.com/sunrise-robot/">What 52 Weeks of Podcasting Will Do To You</a>.</p>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrap">
+
+    <h2 class="footer-heading">Thanks for stopping by</h2>
+
+    <div class="footer-col-1 column">
+      <ul>
+        <li>I think you're great.</li>
+      </ul>
+    </div>
+
+    <div class="footer-col-2 column">
+      <ul class="fa-ul">
+        <li><i class="fa-li fa fa-lg fa-github-alt"></i>
+          <a href="https://github.com/lyonsinbeta">
+            <span class="username">lyonsinbeta</span>
+          </a>
+        </li>
+        <li><i class="fa-li fa fa-lg fa-twitter"></i>
+          <a href="https://twitter.com/lyonsinbeta">
+            <span class="username">lyonsinbeta</span>
+          </a>
+        </li>
+        <li><i class="fa-li fa fa-lg fa-google-plus-square"></i>
+          <a href="https://plus.google.com/+DavidLyons">
+            <span class="username">DavidLyons</span>
+          </a>
+        </li>
+        <li><i class="fa-li fa fa-lg fa-microphone"></i><a href="http://sunriserobot.net">Sunrise Robot</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-col-3 column">
+      <p class="text"></p>
+    </div>
+
+  </div>
+
+</footer>
+
+    <script src="/js/easter-egg.js"></script>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44733266-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    </body>
+</html>

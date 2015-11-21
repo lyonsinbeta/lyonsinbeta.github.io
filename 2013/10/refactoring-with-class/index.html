@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Refactoring with Class</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="">
+    <link rel="canonical" href="http://lyonsinbeta.com/2013/10/refactoring-with-class/">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+</head>
+
+
+    <body>
+
+    <header class="site-header">
+
+  <div class="wrap">
+
+    <a class="site-title" href="/">The Blog of David Lyons</a>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <i class="fa fa-lg fa-bars"></i>
+      </a>
+      <div class="trigger">
+        
+          
+        
+          <a class="page-link" href="/about/">About</a>
+        
+          
+        
+          
+        
+        <a class="page-link" href="/rss.xml"><i class="fa fa-lg fa-rss"></i></a>
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrap">
+      <div class="post">
+
+  <header class="post-header">
+    <h1>Refactoring with Class</h1>
+    <!-- <p class="meta">2013-10-28</p> -->
+  </header>
+
+  <article class="post-content">
+  <p>If you ever want to know if you’re making progress on a skill, go back and look at your earlier work compared to your recent stuff. I was reviewing some of my old scripts on Github and I was surprised how simple and linear they are. They got the job done, but only just barely…</p>
+
+<p>Now I’m not a full time coder, so I haven’t exactly gone pro since then, but I have moved from the ultra simple scripts of yore, to more intelligently formatted and reusable code.</p>
+
+<p>Oh and classes, classes are cool.</p>
+
+<p>Let’s look at a script I wrote not that long ago. It concatenates some CSV files together and gets them into the format I need them.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>require 'csv'
+
+courses = "courses.csv"
+
+altered = []
+
+CSV.foreach(courses, { :headers =&gt; true, :header_converters =&gt; :symbol }) do |course|
+  altered &lt;&lt; course.headers unless altered.size &gt; 0
+  course[:start_date] += "T01:00:01-6:00" unless course[:start_date].match(/T\d\d:\d\d:\d\d-/)
+  course[:end_date] += "T22:59:59-6:00" unless course[:end_date].match(/T\d\d:\d\d:\d\d-/)
+  altered &lt;&lt; course
+end
+
+CSV.open(courses, "w+") do |csv|
+  altered.each do |row|
+    csv &lt;&lt; row
+  end
+end
+
+teachers = "enrollments_t.csv"
+students = "enrollments.csv"
+
+CSV.open(students, "a") do |csv|
+  CSV.foreach(teachers, { :headers =&gt; true, :header_converters =&gt; :symbol }) do |teacher|
+    csv &lt;&lt; teacher
+  end
+end
+
+sections = "sections.csv"
+
+altered = []
+
+CSV.foreach(sections, { :headers =&gt; true, :header_converters =&gt; :symbol }) do |section|
+  altered &lt;&lt; section.headers unless altered.size &gt; 0
+  section[:start_date] = ""
+  section[:end_date] = ""
+  altered &lt;&lt; section
+end
+
+CSV.open(sections, "w+") do |csv|
+  altered.each do |row|
+    csv &lt;&lt; row
+  end
+end
+
+teachers = "users_t.csv"
+students = "users.csv"
+
+CSV.open(students, "a") do |csv|
+  CSV.foreach(teachers, { :headers =&gt; true, :header_converters =&gt; :symbol }) do |teacher|
+    csv &lt;&lt; teacher
+  end
+end
+</code></pre>
+</div>
+
+<p>Oh the horror. It does the job, but it has a lot of smells (and probably more then I even realize.) The most obvious is the duplication. Second (but related) is the <em>complete</em> lack of functions; if I need to concatenate more than just the four files I’d have to extend the script each time. Next is the most up to date version.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>require 'csv'
+
+FILE_TYPES = ["courses", "sections", "users", "enrollments"]
+
+class CSVFixer
+
+  attr_reader :rows
+
+  def initialize(csvs_name)
+    @csvs, @rows = [], []
+    @csvs_name   = csvs_name
+    @csvs        = get_csvs
+    read_csvs(@csvs)
+  end
+
+  def get_csvs
+    @csvs = Dir.glob("csvs/*#{@csvs_name}*", File::FNM_CASEFOLD)
+  end
+
+  def read_csvs(csvs)
+    csvs.each do |csv|
+      CSV.foreach(csv, { :headers           =&gt; true, 
+                         :header_converters =&gt; :symbol, 
+                         :encoding          =&gt; "windows-1251:utf-8" }) do |row|
+        @rows &lt;&lt; row
+      end
+    end
+  end
+
+  def write_csvs(folder, file_name)
+    CSV.open("#{folder}/#{file_name}.csv", "w", 
+             :write_headers =&gt; true, :headers =&gt; @rows[0].headers) do |csv|
+      @rows.each do |row|
+        remove_section_dates(row) if file_name == "sections"
+        extend_course_end_date(row) if file_name == "courses" &amp;&amp; row[:end_date] == "2013-12-14"
+        csv &lt;&lt; row
+      end
+    end
+  end
+
+  def remove_section_dates(row)
+    row[:start_date] = ""
+    row[:end_date]   = ""
+  end
+
+  def extend_course_end_date(row)
+    # Horrible magic number change for Fall 2013
+    row[:end_date] = "2013-12-25"
+  end
+end
+
+def make_folder
+  folder_name = Time.now.strftime("%Y-%m-%d %H%M%S")
+  while File.exists?(folder_name)
+    sleep 1
+    folder_name = Time.now.strftime("%Y-%m-%d %H%M%S")
+  end
+
+  Dir::mkdir(folder_name)
+
+  return folder_name
+end
+
+output = make_folder
+
+FILE_TYPES.each do |type|
+  fix = CSVFixer.new(type)
+  next if fix.rows.empty?
+  fix.write_csvs(output, type)
+  puts "Processed #{fix.rows.length} rows for #{type}.csv"
+end
+</code></pre>
+</div>
+
+<p>So this version is 20 lines longer, but it adds so much goodness in those 20 lines. First, a class is used to declare and make accessible the commonly needed functions, and a CONSTANT holds the names of files (that are now DIR::glob-ed for). This means that I can now make the entire tool also process groups.csv but just adding <code class="highlighter-rouge">"groups"</code> to the <code class="highlighter-rouge">FILE_TYPES</code> array. I can also concatenate any number of partial files, so if I have users.csv, users1.csv, users2.csv <strong>and</strong> users3.csv, it will read in all the lines and cram them into one (UTF-8!!) file.</p>
+
+<p>This little tool still isn’t perfect. It assumes the files are formatted correctly (they come from a machine source so that’s fairly likely) and it does use a magic number, but all in all it’s infinitely more extensible and reusable the the original iteration.</p>
+
+<p>The time I spent writing this little utility didn’t just save me many hours of boring (and error prone) manual concatenation of files, but my coworkers got to benefit from using it while I was away from the office.</p>
+
+  </article>
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrap">
+
+    <h2 class="footer-heading">Thanks for stopping by</h2>
+
+    <div class="footer-col-1 column">
+      <ul>
+        <li>I think you're great.</li>
+      </ul>
+    </div>
+
+    <div class="footer-col-2 column">
+      <ul class="fa-ul">
+        <li><i class="fa-li fa fa-lg fa-github-alt"></i>
+          <a href="https://github.com/lyonsinbeta">
+            <span class="username">lyonsinbeta</span>
+          </a>
+        </li>
+        <li><i class="fa-li fa fa-lg fa-twitter"></i>
+          <a href="https://twitter.com/lyonsinbeta">
+            <span class="username">lyonsinbeta</span>
+          </a>
+        </li>
+        <li><i class="fa-li fa fa-lg fa-google-plus-square"></i>
+          <a href="https://plus.google.com/+DavidLyons">
+            <span class="username">DavidLyons</span>
+          </a>
+        </li>
+        <li><i class="fa-li fa fa-lg fa-microphone"></i><a href="http://sunriserobot.net">Sunrise Robot</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-col-3 column">
+      <p class="text"></p>
+    </div>
+
+  </div>
+
+</footer>
+
+    <script src="/js/easter-egg.js"></script>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44733266-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    </body>
+</html>

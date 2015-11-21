@@ -4,10 +4,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>The Blog of David Lyons</title>
+    <title>Ruby Kernel#Sleep</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="">
-    <link rel="canonical" href="http://lyonsinbeta.com/404.html">
+    <link rel="canonical" href="http://lyonsinbeta.com/2012/01/ruby-kernelsleep/">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/main.css">
@@ -48,11 +48,36 @@
 
     <div class="page-content">
       <div class="wrap">
-      <div class="home">
+      <div class="post">
 
-  <h1>404!</h1>
+  <header class="post-header">
+    <h1>Ruby Kernel#Sleep</h1>
+    <!-- <p class="meta">2012-01-01</p> -->
+  </header>
 
-  <p>Dreadfully sorry my dear, but the thing you were looking for was not found. Maybe head to the <a href="" title="lyonsinbeta.com">homepage</a> and try again?</p>
+  <article class="post-content">
+  <p>While reviewing the <a href="http://stackoverflow.com/a/10728091/1007711">answer on a stackoverflow question I posted</a> I learned a very cool Ruby Kernel method: <a href="http://www.ruby-doc.org/core-1.9.3/Kernel.html#method-i-sleep">sleep</a>.</p>
+
+<p><code class="highlighter-rouge">Kernel#Sleep</code> does pretty much what the name implies; it pauses the interpreter for an indicated amount of seconds (or <em>forever</em> if no value is passed in). By itself this wasn’t obviously useful to me. Why, I thought, would I want to make my code slower and delay results <strong>and</strong> prevent interaction? Well if you reviewed the code in the answer above you’d see this:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>Thread.new do
+  loop do
+    if WAYS[:updated] != (mtime= File.mtime(WAYS[:file]))
+      WAYS[:all].replace File.readlines(WAYS[:file]).map(&amp;:chomp)
+      WAYS[:updated] = mtime
+    end
+    sleep 5 # seconds
+  end
+end
+</code></pre>
+</div>
+
+<p>The significant bit there is <code class="highlighter-rouge">Thread.new do</code>. That bit initiates a new Thread and runs the code within, while allowing the main thread to continue executing code. Now that the <code class="highlighter-rouge">sleep</code> is happening in a separate thread you can probably think of plenty of jobs you might want to delay or run on a schedule.</p>
+
+<p>When I think about code I think about speed and optimization, but in this case it was delay and pacing that made my app work.</p>
+
+
+  </article>
 
 </div>
 

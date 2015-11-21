@@ -1,30 +1,283 @@
----
-layout: none
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>The Blog of David Lyons</title>
+    <description></description>
+    <link>http://lyonsinbeta.com/</link>
+    <atom:link href="http://lyonsinbeta.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 20 Nov 2015 22:34:53 -0700</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2015 22:34:53 -0700</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>The Road To Hell Is Paved With T-Mobile&#39;s Good Intentions</title>
+        <description>&lt;p&gt;I’ve been a T-Mobile customer for a while now and I’m very happy with their customer service and mostly happy with their cellular service. I love that they’re taking a stand as the “uncarrier” to challenge the status quo, but two recent moves, &lt;a href=&quot;http://www.t-mobile.com/offer/free-music-streaming.html&quot;&gt;Music Freedom free music streaming&lt;/a&gt; and &lt;a href=&quot;http://www.t-mobile.com/offer/binge-on-streaming-video.html&quot;&gt;Binge-On free video streaming&lt;/a&gt;, are hurting way more than they help.&lt;/p&gt;
+
+&lt;p&gt;Letting their customers stream music and video, historically bandwidth heavy, without counting toward data usage is great for &lt;em&gt;users&lt;/em&gt; and terrible for &lt;em&gt;net neutrality&lt;/em&gt;, which means this is actually &lt;strong&gt;bad&lt;/strong&gt; for users. In a &lt;a href=&quot;https://newsroom.t-mobile.com/issues-insights-blog/binge-on.htm&quot;&gt;press release from CEO John Legere &lt;/a&gt; he says&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“We’re leveling the playing field for every legit streaming video provider who wants to participate.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;but who decides what a “legit” streaming provider is? He continues:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;With Binge On, our doors are open to all streaming providers who want to participate.  We’ve proven our track record with Music Freedom. No one pays us, and we don’t pay them - and everyone wins – especially customers.  We’re not here to play favorites. Like Music Freedom, Binge On is open to any legit streaming service (with lawful content) out there – at absolutely no cost to them. They just need to contact us and work with us on the technical requirements, optimization for mobile viewing and confirm we can consistently identify their incoming music or video streams.  Content providers can learn more by going to www.T-Mobile.com/BingeOn.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There’s no doubt that users will be thrilled to stream Spotify and Netflix with abandon but if the uncarrier really wants to shake things up they should just give everyone a huge lump of data for a fair price and let us do whatever we want with it. Prioritizing services has many of the same damaging effects on the industry as prioritizing traffic and it’s potentially worse because users are likely to widely support it.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Nov 2015 00:00:00 -0700</pubDate>
+        <link>http://lyonsinbeta.com/2015/11/t-mobiles-good-intentions</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2015/11/t-mobiles-good-intentions</guid>
+        
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>(un)Limited Storage!</title>
+        <description>&lt;p&gt;We need to get out of the habit of calling things “unlimited” that obviously aren’t. When Flickr gave itself a makeover they announced “1 Terabyte of storage” which in my opinion is a &lt;em&gt;better&lt;/em&gt; headline than “Unlimited storage” because 1TB actually means something and unlimited obviously doesn’t.&lt;/p&gt;
+
+&lt;p&gt;Microsoft previously announced unlimited storage for O365 subscribers and &lt;a href=&quot;https://blog.onedrive.com/onedrive_changes/&quot;&gt;has since had to renege&lt;/a&gt; when a user &lt;a href=&quot;http://www.zdnet.com/article/microsoft-reneges-on-unlimited-onedrive-storage-promise-for-office-365-subscribers/&quot;&gt;hilariously abused the unlimited storage&lt;/a&gt;. It’s not really abuse though, is it? You said “unlimited”, Microsoft, and now you’re upset that someone was foolish enough to take you at your word. There’s more than a few ways this situation could have been handled more delicately and I have a way to prevent it from ever happening again; &lt;em&gt;stop calling things unlimited.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;There are always limits, and companies having to take ownership of those limits means consumers can actually make informed decisions. Storage, bandwidth, etc., we all know these things have a cost, so let’s just be upfront about that reality and have a little transparency.&lt;/p&gt;
+
+&lt;p&gt;And don’t think I’ve forgotten about you, wireless carriers. If you want to avoid press like this&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Microsoft gets pissed at user with a 76 terabyte OneDrive, downgrades everyone to 1TB max, nerfs free tier to 5GB &lt;a href=&quot;https://t.co/tpLCGGy7nD&quot;&gt;https://t.co/tpLCGGy7nD&lt;/a&gt;&lt;/p&gt;&amp;mdash; SecuriTay (@SwiftOnSecurity) &lt;a href=&quot;https://twitter.com/SwiftOnSecurity/status/661403648723816449&quot;&gt;November 3, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;But seriously, props to the user who figured out how to get the OneDrive client to work long enough to upload 76 TERABYTES of data.&lt;/p&gt;&amp;mdash; SecuriTay (@SwiftOnSecurity) &lt;a href=&quot;https://twitter.com/SwiftOnSecurity/status/661404298232795140&quot;&gt;November 3, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;you’re going to have to be honest about what your costs are, and what we’re getting for our money.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Nov 2015 00:00:00 -0700</pubDate>
+        <link>http://lyonsinbeta.com/2015/11/unlimited-storage</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2015/11/unlimited-storage</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The College Loan Bubble</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/cshirky/status/660663748403662848&quot;&gt;Clay Shirky tweeted&lt;/a&gt; this &lt;a href=&quot;http://www.theawl.com/2015/10/there-is-no-college-bubble&quot;&gt;article by Malcolm Harris&lt;/a&gt; on why the College Loan Bubble™ isn’t a real bubble and will never pop. Near the end is this passage that made me pause (emphasis mine):&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The truth is that, although the college wage premium has increased in the past three decades or so, it’s not because young graduates are on average better off. Between 1986 and 2013, their median real annual earnings increased by less than $800. But over the same period, for those with no college, real earnings dropped by $2,525. &lt;strong&gt;The economic choice this country poses to young people about higher education has stopped being about opportunity for wealth—now it’s about fear of poverty. Empirically, the latter is a more effective motivator.&lt;/strong&gt; Whether or not this is an appropriate way to produce educated workers is, in theory, a question for our democracy.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Higher education was never supposed to be about job training, but due to a variety of factors over many years that is what it became. Unfortunately for higher ed, one of the most rapidly growing sectors in this country is technology. And that sector’s reliance on, and reverence for, the college degree is at an all time low and dropping.&lt;/p&gt;
+
+&lt;p&gt;The bubble may not exist and may never burst, but more and more of those dollars are probably going to go into dev bootcamps and out of traditional universities.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 31 Oct 2015 00:00:00 -0600</pubDate>
+        <link>http://lyonsinbeta.com/2015/10/the-college-loan-bubble</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2015/10/the-college-loan-bubble</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let They Who Are Without Downtime Cast the First Stone</title>
+        <description>&lt;p&gt;I’ve (begrudgingly) been a Comcast customer for a long time and I have outages roughly one per month or more. So do &lt;a href=&quot;https://twitter.com/hashtag/comcastoutage&quot;&gt;a lot of other people&lt;/a&gt;. So it’s pretty tone deaf of Comcast to tweet this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/post-images/comcast-google-fiber-tweet.jpg&quot; alt=&quot;@Xfinity on twitter: &amp;quot;Google Fiber whiffs. Outage caused Kansas City customers to miss part of World Series game. Outage cause unclear.&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: @xfinity has since deleted this promoted tweet.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Particularly considering the fact that &lt;a href=&quot;http://www.pcmech.com/article/google-fiber-goes-down-in-kc-during-world-series-gives-customers-2-days-credit/&quot;&gt;Google apologized and credited effected customers for the outage&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We’re all waiting for our checks, Comcast.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Via &lt;a href=&quot;https://twitter.com/pwnela/status/660269644369010692&quot;&gt;@pwnela on twitter&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Oct 2015 00:00:00 -0600</pubDate>
+        <link>http://lyonsinbeta.com/2015/10/let-they-who-are-without-downtime</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2015/10/let-they-who-are-without-downtime</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Don&#39;t Lecture Me. Really.</title>
+        <description>&lt;p&gt;I’m as big a fan of &lt;a href=&quot;http://www.nytimes.com/2015/10/18/opinion/sunday/lecture-me-really.html&quot;&gt;unsubstantiated anecdotal arguments&lt;/a&gt; as anyone but deciding you’re not willing to give up lecturing doesn’t suddenly make it a quality learning experience.&lt;/p&gt;
+
+&lt;p&gt;Molly Worthen almost admits as much herself near the end of the article (emphasis mine):&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Note-taking is important partly for the record it creates, &lt;strong&gt;but let’s be honest. Students forget most of the facts we teach them not long after the final exam, if not sooner.&lt;/strong&gt; The real power of good notes lies in how they shape the mind.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;http://www.nytimes.com/2015/10/18/opinion/sunday/lecture-me-really.html&quot;&gt;Lecture Me. Really.&lt;/a&gt; on nytimes.com.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Oct 2015 00:00:00 -0600</pubDate>
+        <link>http://lyonsinbeta.com/2015/10/dont-lecture-me-really</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2015/10/dont-lecture-me-really</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Apple Hates the Mouse</title>
+        <description>&lt;p&gt;Today Apple released a new keyboard, trackpad, and &lt;a href=&quot;http://www.apple.com/shop/product/MLA02/magic-mouse-2&quot;&gt;magic mouse&lt;/a&gt;. They all have internal batteries, recharge via lightning cable, and the trackpad and keyboard have been improved over the already excellent previous models.&lt;/p&gt;
+
+&lt;p&gt;The Magic Mouse 2, however, is actually worse. They fixed none of the original issues around terrible ergonomics and an unpleasant click area, and they &lt;em&gt;added&lt;/em&gt; two new drawbacks; it doesn’t have 3D Touch (the Magic Trackpad 2 does) and you can’t use it while charging because the port is on the &lt;em&gt;bottom.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We get it Apple, you hate mice. You’re all in on the trackpad. That’s fine. You make excellent trackpads. Maybe just give up on the mouse altogether. &lt;a href=&quot;https://en.wikipedia.org/wiki/Apple_USB_Mouse&quot;&gt;They are clearly not your strong suit anyway.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 13 Oct 2015 00:00:00 -0600</pubDate>
+        <link>http://lyonsinbeta.com/2015/10/apple-hates-the-mouse</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2015/10/apple-hates-the-mouse</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>HBO Now on Android (Sucks)</title>
+        <description>&lt;p&gt;HBO Now, HBO’s admission that most people don’t want cable, launched as an iOS exclusive 3 months ago. If you don’t have an iOS device, and weren’t sneaky enough to use a friend’s to setup your account then watch on a laptop, you’ve been sadly waiting all this time. But the wait is over! HBO Now is &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.hbo.hbonow&quot;&gt;available on Google Play&lt;/a&gt; and it’s a really kind of pathetic port.&lt;/p&gt;
+
+&lt;p&gt;Unlike it’s older sibling, HBO Go, HBO Now on android doesn’t have Chromecast support, and for some reason blocks anyone with a rooted device from &lt;em&gt;even installing it.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The reviews are already pouring in, and they are not happy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/post-images/hbo-now-reviews.png&quot; alt=&quot;Less than favorable HBO Now reviews on Google Play&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Get it together, HBO.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Jul 2015 00:00:00 -0600</pubDate>
+        <link>http://lyonsinbeta.com/2015/07/hbo-now-on-android</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2015/07/hbo-now-on-android</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Unicorns and Rainbows, a Year in Reflection</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/post-images/ben-interview-calendar.png&quot; alt=&quot;Google Calendar event reminder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A year ago &lt;a href=&quot;https://twitter.com/lyonsinbeta/status/451763232466669568&quot;&gt;I said I wanted to be interviewed by Ben Orenstein&lt;/a&gt; and he generously agreed to… me asking him again in a year. That’s a reasonable response when you think about it. I’ve never heard an episode of &lt;a href=&quot;http://giantrobots.fm/&quot;&gt;Giant Robots Smashing into Other Giant Robots&lt;/a&gt; that wasn’t amazing, and imposter syndrome aside, I don’t know that I’m on the same level as his other guests.&lt;/p&gt;
+
+&lt;p&gt;Well it’s been a whole year. Spoiler alert; I did not become a professional developer in time. As the event on my calendar drew nearer I asked myself “What &lt;em&gt;did&lt;/em&gt; you do with that year?”&lt;/p&gt;
+
+&lt;p&gt;In no particular order I…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wrote a couple articles for Sitepoint
+    &lt;ul&gt;
+      &lt;li&gt;one on &lt;a href=&quot;http://www.sitepoint.com/command-line-apps-optionparse/&quot;&gt;Ruby command line apps&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;one on &lt;a href=&quot;http://www.sitepoint.com/rubyists-love-logging/&quot;&gt;logging in Ruby&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Gave &lt;a href=&quot;//speakerdeck.com/lyonsinbeta&quot;&gt;12 talks&lt;/a&gt; at various edtech/tech conferences and events&lt;/li&gt;
+  &lt;li&gt;Wrote about &lt;a href=&quot;http://lyonsinbeta.com/2014/05/why-i-code/&quot;&gt;Why I code&lt;/a&gt;, &lt;a href=&quot;http://lyonsinbeta.com/2014/05/why-i-code-part-2/&quot;&gt;twice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Launched a little business called &lt;a href=&quot;//sunriserobot.net&quot;&gt;Sunrise Robot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Got an amazing job with &lt;a href=&quot;http://www.instructure.com/&quot;&gt;the greatest company in edtech&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/r00k/status/527306177856954368&quot;&gt;Hung out with Ben&lt;/a&gt; while he was in Denver&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/d6zQSHRIwqk&quot;&gt;Turned 30&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All the while working with the &lt;a href=&quot;//cuonline.edu&quot;&gt;best team&lt;/a&gt; I’ve ever worked with and being the luckiest part of an incredible family. Not too shabby for 365 days. So is this whole article just one giant &lt;a href=&quot;https://twitter.com/search?f=realtime&amp;amp;q=humblebrag&amp;amp;src=typd&quot;&gt;#humblebrag&lt;/a&gt;? &lt;a href=&quot;http://www.quickmeme.com/img/c5/c5f0d947e06737cf448ab355cd385f063cfd9d2cf4da081b7a5b53bc9fce95fb.jpg&quot;&gt;No!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s a reminder that plans don’t always unfold the way we think they should. I didn’t spend a year becoming a junior developer; I spent a year getting as awesome as possible at my job, doing things I love to do, and spending time with people I love to spend time with.&lt;/p&gt;
+
+&lt;p&gt;It wasn’t all unicorns and rainbows. I didn’t accomplish everything I set out to do and things didn’t always go my way. I still want to upgrade from amateur dev to junior dev. But it’s important to reflect on successes while we learn from missteps.&lt;/p&gt;
+
+&lt;p&gt;I’m still available for interview if you’re interested, Ben.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Apr 2015 00:00:00 -0600</pubDate>
+        <link>http://lyonsinbeta.com/2015/04/unicorns-and-rainbows</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2015/04/unicorns-and-rainbows</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Building Sunrise Robot</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/post-images/sunriserobot_social.png&quot; alt=&quot;H3LiOS, adorable robo-mascot for Sunrise Robot&quot; style=&quot;max-width: 100%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is H3LiOS, the mascot for &lt;a href=&quot;http://sunriserobot.net&quot;&gt;Sunrise Robot&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;What is Sunrise Robot? It’s a podcast network of shows for technologists, gamers, artists and cultural enthusiasts. It was founded by me and my co-host on &lt;a href=&quot;http://sunriserobot.net/flippingtables&quot;&gt;Flipping Tables&lt;/a&gt;, &lt;a href=&quot;http://pseudomichael.com&quot;&gt;Michael Edwards&lt;/a&gt;. It’s awesome and you should totally &lt;a href=&quot;http://sunriserobot.net&quot;&gt;go check it out&lt;/a&gt;, listen, subscribe, and maybe even &lt;a href=&quot;http://patreon.com/sunriserobot&quot;&gt;support us&lt;/a&gt;. But that’s not what this post is about. This post is about the stack we used to build Sunrise Robot.&lt;/p&gt;
+
+&lt;p&gt;When we decided to build this thing we knew we had a lot of decisions to make. And the internet being the way it is meant there is no shortage of opinions on the Best Way™ to do it. The three areas we had to primarily make choices in were:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;CDN&lt;/li&gt;
+  &lt;li&gt;web host&lt;/li&gt;
+  &lt;li&gt;CMS&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We immediately found that all of these areas overlap to a huge extent. We could have just done a one-click install of wordpress on literally &lt;em&gt;any&lt;/em&gt; hosting service, started uploading episodes to their “unlimited” storage, and called it a day. In return for the ease of setting that up we would be making a lot of trade offs. Let’s look at each piece.&lt;/p&gt;
+
+&lt;h2 id=&quot;cdn&quot;&gt;CDN&lt;/h2&gt;
+
+&lt;p&gt;A CDN (content delivery network) is just a place to store and serve files on the surface. For a podcast (or podcast network like Sunrise Robot) we also need industry-reliable data about each episode’s performance.&lt;/p&gt;
+
+&lt;p&gt;When we launched Flipping Tables in the beginning of 2014 we just hosted in Dropbox. Free? Reliable(ish)? Easy to use? It’s a great tool to use at first, but you give up a lot. It doesn’t scale because it’s not meant for content delivery at scale. It doesn’t give you any control over the URLs of your files. It doesn’t give you any info about file activity. These problems are true of any similar service as well like Google Drive/Copy/etc.&lt;/p&gt;
+
+&lt;p&gt;Then there is “unlimited” web hosting but aside from control over the URLs there isn’t really much advantage over Dropbox.&lt;/p&gt;
+
+&lt;h3 id=&quot;so-we-went-with&quot;&gt;So we went with…&lt;/h3&gt;
+
+&lt;p&gt;Libsyn. Industry-trusted analytics, works at scale, and fairly priced. It took me a minute to fully understand “monthly storage” but for a service like Libsyn is makes sense. Flipping Tables has been on Libsyn since mid-November and it’s been working great. It’s worth noting that Libsyn also provides webpage and feed services but you can use them for just file hosting/analytics which makes a lot more sense when you want control over your host and CMS.&lt;/p&gt;
+
+&lt;h2 id=&quot;web-host&quot;&gt;Web host&lt;/h2&gt;
+
+&lt;p&gt;Web hosts are a dime a dozen. From cheap-o free services to shared hosting; from super high performance private servers to full stack solutions like wordpress.com or Squarespace.&lt;/p&gt;
+
+&lt;p&gt;Full stack solutions mean using the included CMS. We considered wordpress and Squarespace but they just weren’t quite right for our needs. By the time we cut out the cruft and hacked in the features we needed it didn’t make sense to use a plug-and-play solution that really wasn’t.&lt;/p&gt;
+
+&lt;p&gt;Shared hosting has a bad reputation for the ridiculous number of asterisks on their unlimited plans. I think a big part of this bad reputation comes from the glut of wordpress sites in the last ten years. The sheer number of “how to speed up wordpress” posts, caching plugins, and the more recent popularization of static site builders is a testament to how difficult it is to run a full features CMS on shared hosting.&lt;/p&gt;
+
+&lt;h3 id=&quot;so-we-went-with-1&quot;&gt;So we went with…&lt;/h3&gt;
+
+&lt;p&gt;It is &lt;em&gt;really&lt;/em&gt; affordable though and if you aren’t using a database driven CMS it is actually a pretty decent option. So how are we managing content without a CMS?&lt;/p&gt;
+
+&lt;h2 id=&quot;cms&quot;&gt;CMS&lt;/h2&gt;
+
+&lt;p&gt;Content Management Systems are what we like to call a “solved problem” for the most part. For the majority of websites the right answer is either “Just use Squarespace” or “Just use Wordpress”. There are others but seriously; a ridiculous amount of the internet is run on those two platforms.&lt;/p&gt;
+
+&lt;p&gt;For us and for Sunrise Robot neither of those really fit. We needed something fast and light weight. We were willing to do work to customize it but we agreed our needs were simple enough that building up would be easier than tearing down. I’ve been using &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; as a static site generator for a couple years and was curious about &lt;a href=&quot;http://middlemanapp.com&quot;&gt;Middleman&lt;/a&gt;. After some poking around the docs and setting up a few test sites I was sold.&lt;/p&gt;
+
+&lt;h3 id=&quot;so-we-went-with-2&quot;&gt;So we went with…&lt;/h3&gt;
+
+&lt;p&gt;Middleman. It’s powerful, flexible, and gave me a damn fine excuse to sharpen my skills.&lt;/p&gt;
+
+&lt;h2 id=&quot;announcing-sunrise-robot&quot;&gt;Announcing Sunrise Robot&lt;/h2&gt;
+
+&lt;p&gt;It’s been a long road getting here, and this is just the beginning. We’ve learned a lot, and can’t wait to see what the future holds. &lt;a href=&quot;http://sunriserobot.net&quot;&gt;Sunrise robot officially launches &lt;em&gt;today&lt;/em&gt; so go check it out&lt;/a&gt;! And if you want to know more, check out Mike’s post about &lt;a href=&quot;http://pseudomichael.com/sunrise-robot/&quot;&gt;What 52 Weeks of Podcasting Will Do To You&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Feb 2015 00:00:00 -0700</pubDate>
+        <link>http://lyonsinbeta.com/2015/02/building-sunrise-robot</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2015/02/building-sunrise-robot</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+    
+      <item>
+        <title>Easter Eggs May Be My Favorite Part of Programming</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/9oO7aQ9.gif&quot; alt=&quot;[Chrome offline easter egg](http://www.omgchrome.com/chrome-easter-egg-trex-game-offline/)&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, I’ve been having &lt;em&gt;a lot&lt;/em&gt; of wifi issues with Yosemite but luckily Google has my back. From &lt;a href=&quot;http://www.omgchrome.com/chrome-easter-egg-trex-game-offline/&quot;&gt;omgchrome.com&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hidden within the browser’s new-look ‘Network Error’ page is a cute, endless running game. It even features the ‘lonely t-rex’ character used to illustrate the browser’s error pages.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Although I’d rather have network and &lt;em&gt;not need&lt;/em&gt; to play this game, it is a clever little feature that probably took one developer an hour to add in and turns a frustrating experience into a fun break from whatever you were “working on”. For the developer it’s a nice reprieve from optimizations and algorithms and the like. It also shows a high level of craftsmanship to the software when these tiny bits of polish are added in where they &lt;a href=&quot;http://www.cracked.com/article_18801_9-video-game-easter-eggs-that-took-years-to-find.html&quot;&gt;may take decades to be found&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Jan 2015 00:00:00 -0700</pubDate>
+        <link>http://lyonsinbeta.com/2015/01/easter-eggs-may-be-my-favorite-part-of-programming</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2015/01/easter-eggs-may-be-my-favorite-part-of-programming</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+    
   </channel>
 </rss>
