@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/lyonsinbeta
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://lyonsinbeta.com
+  * I am lyonsinbeta (https://keybase.io/lyonsinbeta) on keybase.
+  * I have a public key with fingerprint E2A8 58ED 3A82 F7DB 0534  6473 C430 46BF F6BD 2FC2
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "e2a858ed3a82f7db05346473c43046bff6bd2fc2",
+            "host": "keybase.io",
+            "key_id": "c43046bff6bd2fc2",
+            "uid": "f52e6f7a4903c12a6184888af9ffa200",
+            "username": "lyonsinbeta"
+        },
+        "service": {
+            "hostname": "lyonsinbeta.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1403971741,
+    "expire_in": 157680000,
+    "prev": "7fc781caa5a79b1bf9668511c5df845f31dedd210f4185d217db25e8fe6a2748",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.22
+Comment: https://keybase.io/crypto
+
+yMHxAnicbZFtSFRZGMfv6Co6bktCL0j0obuVsI3TfXs5M4G4tiDiupFSpGnTfTlH
+b+m949zrmOiIhX1IW2VnWCNfCkyxFzBy6EOWMg0FxaCgGfQhQqSiXZA2dlBZEzxX
+6lN7v9xznv/v/3/OOc+TLamE03H8hq/D7WlfdyRiK41E+diHwRZSNtRm0ttCnoWb
+P6TpNTDgD2i6RXpJyEiAB1BlJcAgUZUpnuUETmQVjqU4QUZIkFUGKQzpImsN03bg
+GFkyoVszcA1vfJqKq//DN24KiGeggESJ81CsQjOSQAMOACAhD0ISQ1E2aMKALtVD
+TNc1G7qp6TK0JDLkIrEQ1BQstGx2/xZyK0Y9TvAHDMtQjDos1lqW32t7rWa/DTdB
+2fclxidruopvjw1BGDA1Qye9NCYVS7NzaY5iPSItcrSLhOf8WgD6NJvgRQFQ+LPb
+wCCOFJEiAlqRJF4SPTItI48gAJ6mFV5FgOMRS6tQVRmaQhwNeLzA78rwECAoSIzI
+AdzfhA26QXpZfEypBkeaWo0uWY0BSIbisarvCIeTSE9LsedHODO3fp3qydkMIpI4
+9PqXtfHQKV/+g1DGq7aH2XfC/c7x5IXKl9GfQTj8e26ydWW6j3g6/N8CarjVcf63
+53Pc9d2LZTlZe97PvQh7i1vjd9NLInlHoyNpizOx6EqwtLjzjyNNlcXVvfWPSpgf
+nhVdmqTXp6f/LATO1Gj83489+cZfBHBc7clJuhJ6ysDN5Oe2qdmCicyyf4quZK8d
+7jz4hq8bGI0coKYyRrtLqJ072h6P7Nv+Y8Kzy11b/Xf7r8H+WM6Y43LWfG6e8mno
+3rXbkyeSQzO9b5cmuqb2x2IF8arl0gXUc/Fdw5nVyE8pp4cr7qd/304NLxXNbZvv
+Kjf7xlYruo8VDirL83s3AGFFGnQ=
+=Pl8u
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lyonsinbeta
+
+==================================================================

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Blog of David Lyons</title>
+    <description></description>
+    <link>http://lyonsinbeta.com/</link>
+    <atom:link href="http://lyonsinbeta.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 15 Feb 2016 15:18:20 -0700</pubDate>
+    <lastBuildDate>Mon, 15 Feb 2016 15:18:20 -0700</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Autodial Conference Line Extension</title>
+        <description>&lt;p&gt;I am on conference calls a lot. Remote meetings are a big part of my day job, and that means dialing the same 1-800 number and the same two or three extensions several times per week. Dialing numbers by hand like an animal is an unsustainable practice and luckily some smart engineers agree with me!&lt;/p&gt;
+
+&lt;p&gt;That’s right, you can autodial an extension. &lt;em&gt;Pause between number and extension included.&lt;/em&gt; iOS supports this as well as Android, but my screenshots are from Android. The process is similar though.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/post-images/insert-pauses-1.png&quot; alt=&quot;The Android dialer&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The number you want to dial&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/post-images/insert-pauses-2.png&quot; alt=&quot;2-sec and wait options&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Insert that tiny pause to let the line connect&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/post-images/insert-pauses-3.png&quot; alt=&quot;Dial the extension&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Add the extension you want dialed for you&lt;/p&gt;
+
+&lt;p&gt;Then save this whole mess as a contact and from now on you can connect to your conference line with one tap.&lt;/p&gt;
+
+&lt;p&gt;You can even add multiple pauses or a “wait” (which prompts before it proceeds) for more complicated dialing schemes! If you find yourself calling the same conference line even just once per month, I highly encourage this simple hack.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Feb 2016 00:00:00 -0700</pubDate>
+        <link>http://lyonsinbeta.com/2016/2/autodial-conference-extension</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2016/2/autodial-conference-extension</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Twitter (doesn&#39;t) need an algorithm</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;If Twitter were to provide an algorithmic timeline that could allow me to see the most important to(sic) content in 5 minutes or less, I’m very certain that I’d return to using the service more.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Then you don’t want to use Twitter.&lt;/p&gt;
+
+&lt;p&gt;Twitter that isn’t real time and reverse chronological order isn’t Twitter. There are already a ton of services that aggregate tweets, summarize breaking news events, and recap live events. Turning Twitter into one of those services won’t save it, it will kill it. A steak and a hamburger are both made of beef, but no one would argue that they’re the same thing. Grinding Twitter up and smashing it back together would represent a fundamental shift to an already crowded space, and an exit from a space that Twitter &lt;em&gt;completely owns.&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;And do we honestly think that they’d not allow for a pure, “unadulterated” timeline as an option? That’s ridiculous. It just won’t be the default anymore, and that’s a good thing.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Facebook has a similar option; and it resets every. single. time. you. log. in. Twitter would likely take a similar position because advertisers prefer the algorithmic sort.&lt;/p&gt;
+
+&lt;p&gt;Oh, and wanting to use Twitter for it’s declared and well loved primary function doesn’t make you a “power user” it just makes you a “twitter user.”&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;https://medium.com/@mg/twitter-s-power-users-are-holding-it-back-c351dba96363&quot;&gt;Twitter needs an algorithm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mike and I talked about this a lot on &lt;a href=&quot;http://sunriserobot.net/flippingtables/105&quot;&gt;Flipping Tables #105&lt;/a&gt;, so go check that out if you want to hear more thoughts on this subject.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 Feb 2016 00:00:00 -0700</pubDate>
+        <link>http://lyonsinbeta.com/2016/2/twitter-doesnt-need-an-algorithm</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2016/2/twitter-doesnt-need-an-algorithm</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>What Happens to Financial Aid When The Instructor Is Software?</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Rules for &lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&amp;amp;sid=0900b7322acc5a5a10c558b8fe15ad7b&amp;amp;rgn=div8&amp;amp;view=text&amp;amp;node=34:3.1.3.1.1.1.23.2&amp;amp;idno=34&quot;&gt;federal aid eligibility&lt;/a&gt; require “regular and substantive interaction” between students and instructors in distance education programs. That requirement does not apply to correspondence courses. Students typically initiate contact with their instructors in those courses, which often are self-paced.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I wonder what will happen once we finally nail adaptive learning and the “instructor” is software?&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;https://www.insidehighered.com/news/2016/01/15/education-departments-inspector-generals-high-stakes-audit-western-governors-u&quot;&gt;&lt;em&gt;The Faculty Role Online, Scrutinized&lt;/em&gt;&lt;/a&gt;, Inside Higher Ed&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 Jan 2016 00:00:00 -0700</pubDate>
+        <link>http://lyonsinbeta.com/2016/1/financial-aid-for-software</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2016/1/financial-aid-for-software</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Road To Hell Is Paved With T-Mobile&#39;s Good Intentions</title>
+        <description>&lt;p&gt;I’ve been a T-Mobile customer for a while now and I’m very happy with their customer service and mostly happy with their cellular service. I love that they’re taking a stand as the “uncarrier” to challenge the status quo, but two recent moves, &lt;a href=&quot;http://www.t-mobile.com/offer/free-music-streaming.html&quot;&gt;Music Freedom free music streaming&lt;/a&gt; and &lt;a href=&quot;http://www.t-mobile.com/offer/binge-on-streaming-video.html&quot;&gt;Binge-On free video streaming&lt;/a&gt;, are hurting way more than they help.&lt;/p&gt;
+
+&lt;p&gt;Letting their customers stream music and video, historically bandwidth heavy, without counting toward data usage is great for &lt;em&gt;users&lt;/em&gt; and terrible for &lt;em&gt;net neutrality&lt;/em&gt;, which means this is actually &lt;strong&gt;bad&lt;/strong&gt; for users. In a &lt;a href=&quot;https://newsroom.t-mobile.com/issues-insights-blog/binge-on.htm&quot;&gt;press release from CEO John Legere &lt;/a&gt; he says&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“We’re leveling the playing field for every legit streaming video provider who wants to participate.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;but who decides what a “legit” streaming provider is? He continues:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;With Binge On, our doors are open to all streaming providers who want to participate.  We’ve proven our track record with Music Freedom. No one pays us, and we don’t pay them - and everyone wins – especially customers.  We’re not here to play favorites. Like Music Freedom, Binge On is open to any legit streaming service (with lawful content) out there – at absolutely no cost to them. They just need to contact us and work with us on the technical requirements, optimization for mobile viewing and confirm we can consistently identify their incoming music or video streams.  Content providers can learn more by going to www.T-Mobile.com/BingeOn.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There’s no doubt that users will be thrilled to stream Spotify and Netflix with abandon but if the uncarrier really wants to shake things up they should just give everyone a huge lump of data for a fair price and let us do whatever we want with it. Prioritizing services has many of the same damaging effects on the industry as prioritizing traffic and it’s potentially worse because users are likely to widely support it.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Nov 2015 00:00:00 -0700</pubDate>
+        <link>http://lyonsinbeta.com/2015/11/t-mobiles-good-intentions</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2015/11/t-mobiles-good-intentions</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>(un)Limited Storage!</title>
+        <description>&lt;p&gt;We need to get out of the habit of calling things “unlimited” that obviously aren’t. When Flickr gave itself a makeover they announced “1 Terabyte of storage” which in my opinion is a &lt;em&gt;better&lt;/em&gt; headline than “Unlimited storage” because 1TB actually means something and unlimited obviously doesn’t.&lt;/p&gt;
+
+&lt;p&gt;Microsoft previously announced unlimited storage for O365 subscribers and &lt;a href=&quot;https://blog.onedrive.com/onedrive_changes/&quot;&gt;has since had to renege&lt;/a&gt; when a user &lt;a href=&quot;http://www.zdnet.com/article/microsoft-reneges-on-unlimited-onedrive-storage-promise-for-office-365-subscribers/&quot;&gt;hilariously abused the unlimited storage&lt;/a&gt;. It’s not really abuse though, is it? You said “unlimited”, Microsoft, and now you’re upset that someone was foolish enough to take you at your word. There’s more than a few ways this situation could have been handled more delicately and I have a way to prevent it from ever happening again; &lt;em&gt;stop calling things unlimited.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;There are always limits, and companies having to take ownership of those limits means consumers can actually make informed decisions. Storage, bandwidth, etc., we all know these things have a cost, so let’s just be upfront about that reality and have a little transparency.&lt;/p&gt;
+
+&lt;p&gt;And don’t think I’ve forgotten about you, wireless carriers. If you want to avoid press like this&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Microsoft gets pissed at user with a 76 terabyte OneDrive, downgrades everyone to 1TB max, nerfs free tier to 5GB &lt;a href=&quot;https://t.co/tpLCGGy7nD&quot;&gt;https://t.co/tpLCGGy7nD&lt;/a&gt;&lt;/p&gt;&amp;mdash; SecuriTay (@SwiftOnSecurity) &lt;a href=&quot;https://twitter.com/SwiftOnSecurity/status/661403648723816449&quot;&gt;November 3, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;But seriously, props to the user who figured out how to get the OneDrive client to work long enough to upload 76 TERABYTES of data.&lt;/p&gt;&amp;mdash; SecuriTay (@SwiftOnSecurity) &lt;a href=&quot;https://twitter.com/SwiftOnSecurity/status/661404298232795140&quot;&gt;November 3, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;you’re going to have to be honest about what your costs are, and what we’re getting for our money.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Nov 2015 00:00:00 -0700</pubDate>
+        <link>http://lyonsinbeta.com/2015/11/unlimited-storage</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2015/11/unlimited-storage</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The College Loan Bubble</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/cshirky/status/660663748403662848&quot;&gt;Clay Shirky tweeted&lt;/a&gt; this &lt;a href=&quot;http://www.theawl.com/2015/10/there-is-no-college-bubble&quot;&gt;article by Malcolm Harris&lt;/a&gt; on why the College Loan Bubble™ isn’t a real bubble and will never pop. Near the end is this passage that made me pause (emphasis mine):&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The truth is that, although the college wage premium has increased in the past three decades or so, it’s not because young graduates are on average better off. Between 1986 and 2013, their median real annual earnings increased by less than $800. But over the same period, for those with no college, real earnings dropped by $2,525. &lt;strong&gt;The economic choice this country poses to young people about higher education has stopped being about opportunity for wealth—now it’s about fear of poverty. Empirically, the latter is a more effective motivator.&lt;/strong&gt; Whether or not this is an appropriate way to produce educated workers is, in theory, a question for our democracy.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Higher education was never supposed to be about job training, but due to a variety of factors over many years that is what it became. Unfortunately for higher ed, one of the most rapidly growing sectors in this country is technology. And that sector’s reliance on, and reverence for, the college degree is at an all time low and dropping.&lt;/p&gt;
+
+&lt;p&gt;The bubble may not exist and may never burst, but more and more of those dollars are probably going to go into dev bootcamps and out of traditional universities.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 31 Oct 2015 00:00:00 -0600</pubDate>
+        <link>http://lyonsinbeta.com/2015/10/the-college-loan-bubble</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2015/10/the-college-loan-bubble</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let They Who Are Without Downtime Cast the First Stone</title>
+        <description>&lt;p&gt;I’ve (begrudgingly) been a Comcast customer for a long time and I have outages roughly one per month or more. So do &lt;a href=&quot;https://twitter.com/hashtag/comcastoutage&quot;&gt;a lot of other people&lt;/a&gt;. So it’s pretty tone deaf of Comcast to tweet this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/post-images/comcast-google-fiber-tweet.jpg&quot; alt=&quot;@Xfinity on twitter: &amp;quot;Google Fiber whiffs. Outage caused Kansas City customers to miss part of World Series game. Outage cause unclear.&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: @xfinity has since deleted this promoted tweet.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Particularly considering the fact that &lt;a href=&quot;http://www.pcmech.com/article/google-fiber-goes-down-in-kc-during-world-series-gives-customers-2-days-credit/&quot;&gt;Google apologized and credited effected customers for the outage&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We’re all waiting for our checks, Comcast.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Via &lt;a href=&quot;https://twitter.com/pwnela/status/660269644369010692&quot;&gt;@pwnela on twitter&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Oct 2015 00:00:00 -0600</pubDate>
+        <link>http://lyonsinbeta.com/2015/10/let-they-who-are-without-downtime</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2015/10/let-they-who-are-without-downtime</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Don&#39;t Lecture Me. Really.</title>
+        <description>&lt;p&gt;I’m as big a fan of &lt;a href=&quot;http://www.nytimes.com/2015/10/18/opinion/sunday/lecture-me-really.html&quot;&gt;unsubstantiated anecdotal arguments&lt;/a&gt; as anyone but deciding you’re not willing to give up lecturing doesn’t suddenly make it a quality learning experience.&lt;/p&gt;
+
+&lt;p&gt;Molly Worthen almost admits as much herself near the end of the article (emphasis mine):&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Note-taking is important partly for the record it creates, &lt;strong&gt;but let’s be honest. Students forget most of the facts we teach them not long after the final exam, if not sooner.&lt;/strong&gt; The real power of good notes lies in how they shape the mind.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Read &lt;a href=&quot;http://www.nytimes.com/2015/10/18/opinion/sunday/lecture-me-really.html&quot;&gt;Lecture Me. Really.&lt;/a&gt; on nytimes.com.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Oct 2015 00:00:00 -0600</pubDate>
+        <link>http://lyonsinbeta.com/2015/10/dont-lecture-me-really</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2015/10/dont-lecture-me-really</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Apple Hates the Mouse</title>
+        <description>&lt;p&gt;Today Apple released a new keyboard, trackpad, and &lt;a href=&quot;http://www.apple.com/shop/product/MLA02/magic-mouse-2&quot;&gt;magic mouse&lt;/a&gt;. They all have internal batteries, recharge via lightning cable, and the trackpad and keyboard have been improved over the already excellent previous models.&lt;/p&gt;
+
+&lt;p&gt;The Magic Mouse 2, however, is actually worse. They fixed none of the original issues around terrible ergonomics and an unpleasant click area, and they &lt;em&gt;added&lt;/em&gt; two new drawbacks; it doesn’t have 3D Touch (the Magic Trackpad 2 does) and you can’t use it while charging because the port is on the &lt;em&gt;bottom.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We get it Apple, you hate mice. You’re all in on the trackpad. That’s fine. You make excellent trackpads. Maybe just give up on the mouse altogether. &lt;a href=&quot;https://en.wikipedia.org/wiki/Apple_USB_Mouse&quot;&gt;They are clearly not your strong suit anyway.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 13 Oct 2015 00:00:00 -0600</pubDate>
+        <link>http://lyonsinbeta.com/2015/10/apple-hates-the-mouse</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2015/10/apple-hates-the-mouse</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>HBO Now on Android (Sucks)</title>
+        <description>&lt;p&gt;HBO Now, HBO’s admission that most people don’t want cable, launched as an iOS exclusive 3 months ago. If you don’t have an iOS device, and weren’t sneaky enough to use a friend’s to setup your account then watch on a laptop, you’ve been sadly waiting all this time. But the wait is over! HBO Now is &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.hbo.hbonow&quot;&gt;available on Google Play&lt;/a&gt; and it’s a really kind of pathetic port.&lt;/p&gt;
+
+&lt;p&gt;Unlike it’s older sibling, HBO Go, HBO Now on android doesn’t have Chromecast support, and for some reason blocks anyone with a rooted device from &lt;em&gt;even installing it.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The reviews are already pouring in, and they are not happy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/post-images/hbo-now-reviews.png&quot; alt=&quot;Less than favorable HBO Now reviews on Google Play&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Get it together, HBO.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Jul 2015 00:00:00 -0600</pubDate>
+        <link>http://lyonsinbeta.com/2015/07/hbo-now-on-android</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2015/07/hbo-now-on-android</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
