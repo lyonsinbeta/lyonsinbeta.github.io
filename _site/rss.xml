@@ -5,13 +5,13 @@
     <description></description>
     <link>http://lyonsinbeta.com/</link>
     <atom:link href="http://lyonsinbeta.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 Apr 2016 11:13:34 -0600</pubDate>
-    <lastBuildDate>Mon, 11 Apr 2016 11:13:34 -0600</lastBuildDate>
+    <pubDate>Mon, 11 Apr 2016 11:56:28 -0600</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2016 11:56:28 -0600</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
         <title>Experiments in Podcasting: Briefs.fm</title>
-        <description>&lt;p&gt;As of this writing, I’ve been podcasting for over two years and running a podcast network for over a year. Even before I was making my own show, I was a big consumer of podcasts too.&lt;/p&gt;
+        <description>&lt;p&gt;As of this writing, I’ve been podcasting for over two years and &lt;a href=&quot;http://sunriserobot.net&quot;&gt;running a podcast network&lt;/a&gt; for over a year. Even before I was making &lt;a href=&quot;http://sunriserobot.net/flippingtables&quot;&gt;my own show&lt;/a&gt;, I was a big consumer of podcasts too.&lt;/p&gt;
 
 &lt;p&gt;Podcasting is a lot of work. And most of it happens before and after you get on the mic. Thanks to podcasting suddenly becoming cool (thanks, Serial!) lots of startups and apps and services have started to pop up trying to make podcasting easier in one way or another. Come to think of it the two-year anniversary episode of Flipping Tables &lt;a href=&quot;http://sunriserobot.net/flippingtables/104/&quot;&gt;covered a bunch of them&lt;/a&gt; including one I ended up experimenting with: &lt;a href=&quot;https://briefs.fm&quot;&gt;Briefs.fm&lt;/a&gt;.&lt;/p&gt;
 
@@ -34,7 +34,7 @@
   &lt;li&gt;Various cables (price varries based on length)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;$580?! And that doesn’t include the Macbook Pro it’s all plugged into, Logic Pro X that I use to mix, or the hosting service to get the episode swiftly delivered to you. Not to mention the time it takes to actually mix and eq the show. Briefs.fm is claiming it can get my show published using the phone I already carry anyway &lt;em&gt;and&lt;/em&gt; that it will sound amazing? Challenge accepted!&lt;/p&gt;
+&lt;p&gt;$580?! Do I really need all this stuff? The boom arm is definitely a luxury and only affects the sound by making good mic technique easier. And this doesn’t include the Macbook Pro it’s all plugged into, Logic Pro X that I use to mix, or the hosting service to get the episode swiftly delivered to you. Not to mention the time it takes to actually mix and eq the show. Briefs.fm is claiming it can get my show published using the phone I already carry anyway &lt;em&gt;and&lt;/em&gt; that it will sound amazing? Challenge accepted!&lt;/p&gt;
 
 &lt;h2 id=&quot;the-experiment&quot;&gt;The Experiment&lt;/h2&gt;
 
@@ -49,40 +49,32 @@
     &lt;ul&gt;
       &lt;li&gt;Indoors. No ambient noise&lt;/li&gt;
       &lt;li&gt;Recorded with Quicktime on Mac&lt;/li&gt;
-      &lt;li&gt;
-        &lt;audio src=&quot;/post-audio/briefs.fm/original/1-bose-inline-inside.mp4&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
-        &lt;audio src=&quot;/post-audio/briefs.fm/mixed/1-bose-inline-inside.mp3&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
-      &lt;/li&gt;
+      &lt;li&gt;Original &lt;audio src=&quot;/post-audio/briefs.fm/original/1-bose-inline-inside.mp4&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;&lt;/li&gt;
+      &lt;li&gt;Auphonic’d &lt;audio src=&quot;/post-audio/briefs.fm/mixed/1-bose-inline-inside.mp3&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Shure SM58 with Cloudlifter and Focusrite 6i6&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;Indoors near window with loud road noise, tv playing in the background&lt;/li&gt;
       &lt;li&gt;Recorded with Quicktime on Mac&lt;/li&gt;
-      &lt;li&gt;
-        &lt;audio src=&quot;/post-audio/briefs.fm/original/2-sm58-inside.mp4&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
-        &lt;audio src=&quot;/post-audio/briefs.fm/mixed/2-sm58-inside.mp3&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
-      &lt;/li&gt;
+      &lt;li&gt;Original &lt;audio src=&quot;/post-audio/briefs.fm/original/2-sm58-inside.mp4&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;&lt;/li&gt;
+      &lt;li&gt;Auphonic’d &lt;audio src=&quot;/post-audio/briefs.fm/mixed/2-sm58-inside.mp3&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Nexus 6p Built In&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;Outdoors near very loud highway road noise&lt;/li&gt;
       &lt;li&gt;Recorded with Audio Recorder Android app&lt;/li&gt;
-      &lt;li&gt;
-        &lt;audio src=&quot;/post-audio/briefs.fm/original/3-nexus6p-outside.wav&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
-        &lt;audio src=&quot;/post-audio/briefs.fm/mixed/3-nexus6p-outside.mp3&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
-      &lt;/li&gt;
+      &lt;li&gt;Original &lt;audio src=&quot;/post-audio/briefs.fm/original/3-nexus6p-outside.wav&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;&lt;/li&gt;
+      &lt;li&gt;Auphonic’d &lt;audio src=&quot;/post-audio/briefs.fm/mixed/3-nexus6p-outside.mp3&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Nexus 6p Built In&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;Outdoors near loud road noise, in high wind, mic close to my face&lt;/li&gt;
       &lt;li&gt;Recorded with Audio Recorder Android app&lt;/li&gt;
-      &lt;li&gt;
-        &lt;audio src=&quot;/post-audio/briefs.fm/original/4-nexus6p-outside.wav&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
-        &lt;audio src=&quot;/post-audio/briefs.fm/mixed/4-nexus6p-outside.mp3&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
-      &lt;/li&gt;
+      &lt;li&gt;Original &lt;audio src=&quot;/post-audio/briefs.fm/original/4-nexus6p-outside.wav&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;&lt;/li&gt;
+      &lt;li&gt;Auphonic’d &lt;audio src=&quot;/post-audio/briefs.fm/mixed/4-nexus6p-outside.mp3&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Zoom H4N Handy Recorder, Built In Stereo Mics&lt;/strong&gt;
@@ -90,20 +82,16 @@
       &lt;li&gt;Recorded to mono&lt;/li&gt;
       &lt;li&gt;Indoors, mostly quiet, squeaky room fan overhead&lt;/li&gt;
       &lt;li&gt;Recorded with onboard device software&lt;/li&gt;
-      &lt;li&gt;
-        &lt;audio src=&quot;/post-audio/briefs.fm/original/5-zoom-h4n-inside.wav&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
-        &lt;audio src=&quot;/post-audio/briefs.fm/mixed/5-zoom-h4n-inside.mp3&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
-      &lt;/li&gt;
+      &lt;li&gt;Original &lt;audio src=&quot;/post-audio/briefs.fm/original/5-zoom-h4n-inside.wav&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;&lt;/li&gt;
+      &lt;li&gt;Auphonic’d &lt;audio src=&quot;/post-audio/briefs.fm/mixed/5-zoom-h4n-inside.mp3&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;iPad Air 2 Built-in Mic&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;Indoors, quiet&lt;/li&gt;
       &lt;li&gt;Recorded with Voice Recorder Pro, settings tuned for voice&lt;/li&gt;
-      &lt;li&gt;
-        &lt;audio src=&quot;/post-audio/briefs.fm/original/6-ipadair2-inside.mp4&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
-        &lt;audio src=&quot;/post-audio/briefs.fm/mixed/6-ipadair2-inside.mp3&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
-      &lt;/li&gt;
+      &lt;li&gt;Original &lt;audio src=&quot;/post-audio/briefs.fm/original/6-ipadair2-inside.mp4&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;&lt;/li&gt;
+      &lt;li&gt;Auphonic’d &lt;audio src=&quot;/post-audio/briefs.fm/mixed/6-ipadair2-inside.mp3&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ol&gt;

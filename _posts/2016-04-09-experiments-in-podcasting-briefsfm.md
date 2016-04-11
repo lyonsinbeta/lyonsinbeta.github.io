@@ -4,7 +4,7 @@ author: David
 layout: post
 permalink: /2016/4/experiments-in-podcasting-briefsfm
 ---
-As of this writing, I've been podcasting for over two years and running a podcast network for over a year. Even before I was making my own show, I was a big consumer of podcasts too.
+As of this writing, I've been podcasting for over two years and [running a podcast network](http://sunriserobot.net) for over a year. Even before I was making [my own show](http://sunriserobot.net/flippingtables), I was a big consumer of podcasts too.
 
 Podcasting is a lot of work. And most of it happens before and after you get on the mic. Thanks to podcasting suddenly becoming cool (thanks, Serial!) lots of startups and apps and services have started to pop up trying to make podcasting easier in one way or another. Come to think of it the two-year anniversary episode of Flipping Tables [covered a bunch of them](http://sunriserobot.net/flippingtables/104/) including one I ended up experimenting with: [Briefs.fm](https://briefs.fm).
 
@@ -23,7 +23,7 @@ Here is the equipment that goes into getting my voice from my mouth to your ears
 - [Focusrite 6i6 USB audio interface](http://amzn.com/B00CP4IIJY) ~$220
 - Various cables (price varries based on length)
 
-$580?! Do I really need all this stuff? The boom arm is definitely a luxury and only effects the sound by making good mic technique easier. And this doesn't include the Macbook Pro it's all plugged into, Logic Pro X that I use to mix, or the hosting service to get the episode swiftly delivered to you. Not to mention the time it takes to actually mix and eq the show. Briefs.fm is claiming it can get my show published using the phone I already carry anyway _and_ that it will sound amazing? Challenge accepted!
+$580?! Do I really need all this stuff? The boom arm is definitely a luxury and only affects the sound by making good mic technique easier. And this doesn't include the Macbook Pro it's all plugged into, Logic Pro X that I use to mix, or the hosting service to get the episode swiftly delivered to you. Not to mention the time it takes to actually mix and eq the show. Briefs.fm is claiming it can get my show published using the phone I already carry anyway _and_ that it will sound amazing? Challenge accepted!
 
 ## The Experiment
 
@@ -36,28 +36,34 @@ Here are all six episodes, unprocessed first and auphonic'd second:
 1. **Bose Quietcomfort Headphones Inline Mic**
   - Indoors. No ambient noise
   - Recorded with Quicktime on Mac
-  - <audio src="/post-audio/briefs.fm/original/1-bose-inline-inside.mp4" controls preload type="audio/mpeg"></audio><audio src="/post-audio/briefs.fm/mixed/1-bose-inline-inside.mp3" controls preload type="audio/mpeg"></audio>
+  - Original <audio src="/post-audio/briefs.fm/original/1-bose-inline-inside.mp4" controls preload type="audio/mpeg"></audio>
+  - Auphonic'd <audio src="/post-audio/briefs.fm/mixed/1-bose-inline-inside.mp3" controls preload type="audio/mpeg"></audio>
 2. **Shure SM58 with Cloudlifter and Focusrite 6i6**
   - Indoors near window with loud road noise, tv playing in the background
   - Recorded with Quicktime on Mac
-  - <audio src="/post-audio/briefs.fm/original/2-sm58-inside.mp4" controls preload type="audio/mpeg"></audio><audio src="/post-audio/briefs.fm/mixed/2-sm58-inside.mp3" controls preload type="audio/mpeg"></audio>
+  - Original <audio src="/post-audio/briefs.fm/original/2-sm58-inside.mp4" controls preload type="audio/mpeg"></audio>
+  - Auphonic'd <audio src="/post-audio/briefs.fm/mixed/2-sm58-inside.mp3" controls preload type="audio/mpeg"></audio>
 3. **Nexus 6p Built In**
   - Outdoors near very loud highway road noise
   - Recorded with Audio Recorder Android app
-  - <audio src="/post-audio/briefs.fm/original/3-nexus6p-outside.wav" controls preload type="audio/mpeg"></audio><audio src="/post-audio/briefs.fm/mixed/3-nexus6p-outside.mp3" controls preload type="audio/mpeg"></audio>
+  - Original <audio src="/post-audio/briefs.fm/original/3-nexus6p-outside.wav" controls preload type="audio/mpeg"></audio>
+  - Auphonic'd <audio src="/post-audio/briefs.fm/mixed/3-nexus6p-outside.mp3" controls preload type="audio/mpeg"></audio>
 4. **Nexus 6p Built In**
   - Outdoors near loud road noise, in high wind, mic close to my face
   - Recorded with Audio Recorder Android app
-  - <audio src="/post-audio/briefs.fm/original/4-nexus6p-outside.wav" controls preload type="audio/mpeg"></audio><audio src="/post-audio/briefs.fm/mixed/4-nexus6p-outside.mp3" controls preload type="audio/mpeg"></audio>
+  - Original <audio src="/post-audio/briefs.fm/original/4-nexus6p-outside.wav" controls preload type="audio/mpeg"></audio>
+  - Auphonic'd <audio src="/post-audio/briefs.fm/mixed/4-nexus6p-outside.mp3" controls preload type="audio/mpeg"></audio>
 5. **Zoom H4N Handy Recorder, Built In Stereo Mics**
   - Recorded to mono
   - Indoors, mostly quiet, squeaky room fan overhead
   - Recorded with onboard device software
-  - <audio src="/post-audio/briefs.fm/original/5-zoom-h4n-inside.wav" controls preload type="audio/mpeg"></audio><audio src="/post-audio/briefs.fm/mixed/5-zoom-h4n-inside.mp3" controls preload type="audio/mpeg"></audio>
+  - Original <audio src="/post-audio/briefs.fm/original/5-zoom-h4n-inside.wav" controls preload type="audio/mpeg"></audio>
+  - Auphonic'd <audio src="/post-audio/briefs.fm/mixed/5-zoom-h4n-inside.mp3" controls preload type="audio/mpeg"></audio>
 6. **iPad Air 2 Built-in Mic**
   - Indoors, quiet
   - Recorded with Voice Recorder Pro, settings tuned for voice
-  - <audio src="/post-audio/briefs.fm/original/6-ipadair2-inside.mp4" controls preload type="audio/mpeg"></audio><audio src="/post-audio/briefs.fm/mixed/6-ipadair2-inside.mp3" controls preload type="audio/mpeg"></audio>
+  - Original <audio src="/post-audio/briefs.fm/original/6-ipadair2-inside.mp4" controls preload type="audio/mpeg"></audio>
+  - Auphonic'd <audio src="/post-audio/briefs.fm/mixed/6-ipadair2-inside.mp3" controls preload type="audio/mpeg"></audio>
 
 ### The Results
 
