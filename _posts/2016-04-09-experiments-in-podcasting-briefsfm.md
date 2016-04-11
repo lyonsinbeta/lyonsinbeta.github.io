@@ -23,7 +23,7 @@ Here is the equipment that goes into getting my voice from my mouth to your ears
 - [Focusrite 6i6 USB audio interface](http://amzn.com/B00CP4IIJY) ~$220
 - Various cables (price varries based on length)
 
-$580?! And that doesn't include the Macbook Pro it's all plugged into, Logic Pro X that I use to mix, or the hosting service to get the episode swiftly delivered to you. Not to mention the time it takes to actually mix and eq the show. Briefs.fm is claiming it can get my show published using the phone I already carry anyway _and_ that it will sound amazing? Challenge accepted!
+$580?! Do I really need all this stuff? The boom arm is definitely a luxury and only effects the sound by making good mic technique easier. And this doesn't include the Macbook Pro it's all plugged into, Logic Pro X that I use to mix, or the hosting service to get the episode swiftly delivered to you. Not to mention the time it takes to actually mix and eq the show. Briefs.fm is claiming it can get my show published using the phone I already carry anyway _and_ that it will sound amazing? Challenge accepted!
 
 ## The Experiment
 
