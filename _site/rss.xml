@@ -5,9 +5,272 @@
     <description></description>
     <link>http://lyonsinbeta.com/</link>
     <atom:link href="http://lyonsinbeta.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 15 Feb 2016 15:18:20 -0700</pubDate>
-    <lastBuildDate>Mon, 15 Feb 2016 15:18:20 -0700</lastBuildDate>
+    <pubDate>Mon, 11 Apr 2016 11:13:34 -0600</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2016 11:13:34 -0600</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Experiments in Podcasting: Briefs.fm</title>
+        <description>&lt;p&gt;As of this writing, I’ve been podcasting for over two years and running a podcast network for over a year. Even before I was making my own show, I was a big consumer of podcasts too.&lt;/p&gt;
+
+&lt;p&gt;Podcasting is a lot of work. And most of it happens before and after you get on the mic. Thanks to podcasting suddenly becoming cool (thanks, Serial!) lots of startups and apps and services have started to pop up trying to make podcasting easier in one way or another. Come to think of it the two-year anniversary episode of Flipping Tables &lt;a href=&quot;http://sunriserobot.net/flippingtables/104/&quot;&gt;covered a bunch of them&lt;/a&gt; including one I ended up experimenting with: &lt;a href=&quot;https://briefs.fm&quot;&gt;Briefs.fm&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Briefs.fm’s tagline is “A podcast you’ll actually publish” and they say their differentiator is that&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Episodes are limited to three minutes, published by email, and still sound amazing even when recorded on your phone.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Limiting shows to 3 minutes is very interesting and a lot of people have (I think correctly) referred to Briefs.fm as twitter for podcasting. Publishing by email is also a neat trick, and removes a lot of friction between talking into a mic and getting your content out there. But it’s the last claim, “still sound amazing even when recorded on your phone”, that piqued my interest the most.&lt;/p&gt;
+
+&lt;p&gt;Here is the equipment that goes into getting my voice from my mouth to your ears on &lt;a href=&quot;http://sunriserobot.net/flippingtables&quot;&gt;Flipping Tables&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.com/B00JZBC0NA&quot;&gt;Neewer shock mount and pop filter&lt;/a&gt; ~$10&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.com/B000CZ0R42&quot;&gt;Shure SM58 microphone&lt;/a&gt; ~$100&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.com/B001D7UYBO&quot;&gt;Rode PSA1 boom arm&lt;/a&gt; ~$100&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.com/B004MQSV04&quot;&gt;Cloudlifter CL-1&lt;/a&gt; ~$150&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amzn.com/B00CP4IIJY&quot;&gt;Focusrite 6i6 USB audio interface&lt;/a&gt; ~$220&lt;/li&gt;
+  &lt;li&gt;Various cables (price varries based on length)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;$580?! And that doesn’t include the Macbook Pro it’s all plugged into, Logic Pro X that I use to mix, or the hosting service to get the episode swiftly delivered to you. Not to mention the time it takes to actually mix and eq the show. Briefs.fm is claiming it can get my show published using the phone I already carry anyway &lt;em&gt;and&lt;/em&gt; that it will sound amazing? Challenge accepted!&lt;/p&gt;
+
+&lt;h2 id=&quot;the-experiment&quot;&gt;The Experiment&lt;/h2&gt;
+
+&lt;p&gt;I got in touch with Ben and launched “Human vs Robot Mixing” (discontinued since the experiment is completed) a show entirely devoted to recording with various devices under various conditions. I wanted to see how well &lt;a href=&quot;https://auphonic.com/&quot;&gt;auphonic, the algorithm behind Briefs.fm&lt;/a&gt;, could possibly do with the sub-par audio recorded under sub-par conditions using sub-par microphones because &lt;em&gt;audio quality on a podcast matters a lot&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-trials&quot;&gt;The Trials&lt;/h3&gt;
+
+&lt;p&gt;Here are all six episodes, unprocessed first and auphonic’d second:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Bose Quietcomfort Headphones Inline Mic&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Indoors. No ambient noise&lt;/li&gt;
+      &lt;li&gt;Recorded with Quicktime on Mac&lt;/li&gt;
+      &lt;li&gt;
+        &lt;audio src=&quot;/post-audio/briefs.fm/original/1-bose-inline-inside.mp4&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
+        &lt;audio src=&quot;/post-audio/briefs.fm/mixed/1-bose-inline-inside.mp3&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Shure SM58 with Cloudlifter and Focusrite 6i6&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Indoors near window with loud road noise, tv playing in the background&lt;/li&gt;
+      &lt;li&gt;Recorded with Quicktime on Mac&lt;/li&gt;
+      &lt;li&gt;
+        &lt;audio src=&quot;/post-audio/briefs.fm/original/2-sm58-inside.mp4&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
+        &lt;audio src=&quot;/post-audio/briefs.fm/mixed/2-sm58-inside.mp3&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nexus 6p Built In&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Outdoors near very loud highway road noise&lt;/li&gt;
+      &lt;li&gt;Recorded with Audio Recorder Android app&lt;/li&gt;
+      &lt;li&gt;
+        &lt;audio src=&quot;/post-audio/briefs.fm/original/3-nexus6p-outside.wav&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
+        &lt;audio src=&quot;/post-audio/briefs.fm/mixed/3-nexus6p-outside.mp3&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nexus 6p Built In&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Outdoors near loud road noise, in high wind, mic close to my face&lt;/li&gt;
+      &lt;li&gt;Recorded with Audio Recorder Android app&lt;/li&gt;
+      &lt;li&gt;
+        &lt;audio src=&quot;/post-audio/briefs.fm/original/4-nexus6p-outside.wav&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
+        &lt;audio src=&quot;/post-audio/briefs.fm/mixed/4-nexus6p-outside.mp3&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Zoom H4N Handy Recorder, Built In Stereo Mics&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Recorded to mono&lt;/li&gt;
+      &lt;li&gt;Indoors, mostly quiet, squeaky room fan overhead&lt;/li&gt;
+      &lt;li&gt;Recorded with onboard device software&lt;/li&gt;
+      &lt;li&gt;
+        &lt;audio src=&quot;/post-audio/briefs.fm/original/5-zoom-h4n-inside.wav&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
+        &lt;audio src=&quot;/post-audio/briefs.fm/mixed/5-zoom-h4n-inside.mp3&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;iPad Air 2 Built-in Mic&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Indoors, quiet&lt;/li&gt;
+      &lt;li&gt;Recorded with Voice Recorder Pro, settings tuned for voice&lt;/li&gt;
+      &lt;li&gt;
+        &lt;audio src=&quot;/post-audio/briefs.fm/original/6-ipadair2-inside.mp4&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
+        &lt;audio src=&quot;/post-audio/briefs.fm/mixed/6-ipadair2-inside.mp3&quot; controls=&quot;&quot; preload=&quot;&quot; type=&quot;audio/mpeg&quot;&gt;&lt;/audio&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;the-results&quot;&gt;The Results&lt;/h3&gt;
+
+&lt;p&gt;#1 Has an obvious reduction in “room noise” and sounds better overall.&lt;/p&gt;
+
+&lt;p&gt;#2 doesn’t sound really any different but the levels were brought up which is expected. It didn’t need anything else and the algorithm correctly left it alone.&lt;/p&gt;
+
+&lt;p&gt;#3 and #4 are similar except in #4 I am holding the phone much closer to my mouth so auphonic was able to boost my voice while still trying to supress road noise, though it can’t do much about wind on a mic that has no wind screen. These tests were probably the most taxing on Auphonic.&lt;/p&gt;
+
+&lt;p&gt;#5 is so quiet as to be unusable, but auphonic did a great job of bringing the levels up. Couldn’t do much about de-essing though which is a strong indicator that mic technique still matters.&lt;/p&gt;
+
+&lt;p&gt;#6 also had the levels brought up nicely without sending it into compression hell. A little bit of room noise still rings in the background (my voice tends to bounce of walls quite a lot) but a little room noise isn’t necessarily a terrible thing.&lt;/p&gt;
+
+&lt;p&gt;Across the board Auphonic does a good job of bringing the voice level up, and brining the ambient noise level down. It also compressed the files in a way that seems pretty optimized for voice, as the processed files are substantially smaller. In the case of the Zoom it went from 18 MB to just 1.1 MB.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-conclusion&quot;&gt;The Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Briefs.fm is doing something different by limiting episodes to 3 minutes, and I’m excited to see where that format goes. Even though my show on Briefs is done (I do run &lt;a href=&quot;http://sunriserobot.net&quot;&gt;a podcast network&lt;/a&gt; after all) I’d recommend it to anyone who has ever thought about starting a podcast. Robot mixing isn’t yet ready for a highly edited show, or a show with multiple hosts, but for a solo host limited to three minutes it’s already good enough and getting better.&lt;/p&gt;
+
+&lt;p&gt;You still want to have decent mic technique, in a decent setting. If you’re in a bare concrete basement with a washer and dryer running in the background and you hold your mobile at arm’s length and shout at it, there isn’t much anyone, human or robot, can do to make that sound great.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 Apr 2016 00:00:00 -0600</pubDate>
+        <link>http://lyonsinbeta.com/2016/4/experiments-in-podcasting-briefsfm</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2016/4/experiments-in-podcasting-briefsfm</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Opt-in for Accessibility, Opt-out for Annoyance</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://blog.twitter.com/2016/accessible-images-for-everyone&quot;&gt;Twitter just added the ability to add alt-text to images in tweets&lt;/a&gt; thereby making them screen reader accessible, but you have to &lt;em&gt;opt-in to use this feature.&lt;/em&gt; From the announcement:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Enable this feature by using the compose image descriptions option in the Twitter app’s accessibility settings. The next time you add an image to a Tweet, each thumbnail in the composer will have an add description button.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Now here is a quote from the &lt;a href=&quot;https://blog.twitter.com/2016/never-miss-important-tweets-from-people-you-follow&quot;&gt;blog post announcing the algorithmically sorted timeline&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;…we’ll be turning on the feature for you in coming weeks — look out for a notification in your timeline. We love it and think you will too. If you don’t, send your thoughts our way, and you can easily turn it off in settings.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So a user has to opt-in for accessibility, but opt-out of a “feature” that breaks the core value proposition of the service.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 31 Mar 2016 00:00:00 -0600</pubDate>
+        <link>http://lyonsinbeta.com/2016/3/opt-in-opt-out-twitter</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2016/3/opt-in-opt-out-twitter</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Reminder to Disconnect Old Apps</title>
+        <description>&lt;p&gt;Google, Twitter, and Facebook (and LinkedIn, Github, etc. etc. etc.) are things we all use and it’s really tempting to just “Log in with [SOCIAL SERVICE OF CHOICE]” because of the convenience. And although the privacy settings of all these services change as they add and remove features, change policies, and sometimes randomly just to screw with us, &lt;em&gt;Facebook&lt;/em&gt;, one fairly consistent thing is the “Connected Apps” section.&lt;/p&gt;
+
+&lt;p&gt;Chances are you logged into some game, some web app, or some other other thing that is now abandoned or you’ve abandoned but it still has access to your account. This is a gaping security hole and one that is trivially easy to fix. Just log into [SOCIAL SERVICE], navigate to their list of stuff that has access to your account and start removing access.&lt;/p&gt;
+
+&lt;p&gt;Here are direct links to the page in question for the services you most likely use:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://security.google.com/settings/security/permissions&quot;&gt;Google&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/settings/applications&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/settings?tab=applications&quot;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pro tip: Anything you don’t recognize should almost definitely get the ax. Also any game you “totally plan to get back into.”&lt;/p&gt;
+</description>
+        <pubDate>Sun, 27 Mar 2016 00:00:00 -0600</pubDate>
+        <link>http://lyonsinbeta.com/2016/3/reminder-to-disconnect-old-apps</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2016/3/reminder-to-disconnect-old-apps</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>SMS Over Wifi on Android</title>
+        <description>&lt;p&gt;I was on a plane recently scrolling through Twitter on my phone (&lt;a href=&quot;https://www.youtube.com/watch?v=q8LaT5Iiwo4&quot;&gt;in-flight wifi is slow but it’s still amazing&lt;/a&gt;) when I received a text message from a friend asking a question. I replied, we texted back and forth for a few minutes, and that was that. Nothing remarkable.&lt;/p&gt;
+
+&lt;p&gt;Then it hit me, I had &lt;em&gt;wifi&lt;/em&gt; but not &lt;em&gt;cell service&lt;/em&gt;. And I was just sending and receiving old fashioned SMS. How is that possible? Turns out Google added this capability to their Messenger app and didn’t tell anyone. Or at least no one told me. &lt;a href=&quot;https://support.google.com/fi/answer/6205096?hl=en&quot;&gt;From Google’s documentation&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; You can send texts over Wi-Fi even if you don’t have cell service. Just use Messenger as you normally would.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Google Voice and Hangouts have enabled SMS over wifi for a while but Voice definitely seems to be dead or dying, and Hangouts actually encourages you to stop using it for SMS. So while this is nothing new or revolutionary, it’s nice to see it as a foregone conclusion that SMS would work over data, instead of being a “feature”.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Mar 2016 00:00:00 -0600</pubDate>
+        <link>http://lyonsinbeta.com/2016/3/sms-over-wifi-on-android</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2016/3/sms-over-wifi-on-android</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let Me Google That For Me</title>
+        <description>&lt;p&gt;Recently I’ve been practicing JavaScript by writing useful little snippets for Canvas. Small, simple tools or changes that solve a specific problem, and which have a scope just at the edge of my comfort zone (where the learning happens!)&lt;/p&gt;
+
+&lt;p&gt;I had a new “how hard could it be” idea and when I cracked open the Inspector in Chrome I was met with a ton of DOM elements I was not expecting plus a bizarrely specific class name on almost all of them. Parsing and extracting the data I needed was going to be harder than I thought. Even with &lt;a href=&quot;http://youmightnotneedjquery.com/&quot;&gt;jQuery wizardry&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;When I went into Slack to complain about my hopes of a quick fix being dashed the response I got was a link to the &lt;a href=&quot;https://github.com/mleibman/SlickGrid/wiki&quot;&gt;Github documentation for the library being used on that page&lt;/a&gt;. It’s obvious &lt;em&gt;in hindsight&lt;/em&gt; that the class name I was seeing was generated by a library. The person who sent me the documentation wasn’t already familiar with the library, they just noticed an anomaly and a pattern, and turned to Google to quickly confirm their suspicions.&lt;/p&gt;
+
+&lt;p&gt;The experience was a good reminder to watch for external libraries in a code base. After all, it won’t always be &lt;a href=&quot;http://vanilla-js.com/&quot;&gt;vanilla JavaScript&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Mar 2016 00:00:00 -0600</pubDate>
+        <link>http://lyonsinbeta.com/2016/3/let-me-google-that-for-me</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2016/3/let-me-google-that-for-me</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Amazon Removes Encryption from FireOS</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;While Apple is fighting the FBI in court over encryption, Amazon quietly disabled the option to use encryption to protect data on its Android-powered devices.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To be fair, they actually did this last Fall but the current climate, and slow roll out to of the update to older devices, is making this into big news &lt;strong&gt;as it should be.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For a company that thrives on providing such convenience to their customers this is the wrong direction to go. If users weren’t turning encryption on &lt;em&gt;Amazon should turn it on by default for everyone&lt;/em&gt; not disabled it completely.&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;http://motherboard.vice.com/read/amazon-removes-device-encryption-fire-os-kindle-phones-and-tablets&quot;&gt;Amazon Quietly Removes Encryption Support from its Gadgets&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Mar 2016 00:00:00 -0700</pubDate>
+        <link>http://lyonsinbeta.com/2016/3/amazon-removes-encryption-from-fireos</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2016/3/amazon-removes-encryption-from-fireos</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Share All the Things</title>
+        <description>&lt;p&gt;You can read any number of blogs and think pieces about the benefits of sharing what you’re working on and learning. I work in technology in the education sector, and between those two groups of people there are a seemingly unlimited number of voices telling me to share more of what I’m working on, learning, and most importantly, &lt;em&gt;struggling with.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Most people seem to have no problem going on twitter or Facebook and complaining about a problem they’re having, but a blog post tends to command a little more thought, reflection, and often a solution.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This post&lt;/strong&gt; is a reminder to myself, and to you, that you can share what you’re working on and your victories, but don’t forget to share your struggles, &lt;em&gt;particularly when you don’t have a solution.&lt;/em&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/Rubber_duck_debugging&quot;&gt;Nothing will get your brain moving quite like explaining the issue you’re having even if no one is listening&lt;/a&gt;. And even if you don’t have a solution by the end of your post you still have spent quality time reflecting on the problem, and by sharing your struggle you just might reassure someone in a similar position.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Mar 2016 00:00:00 -0700</pubDate>
+        <link>http://lyonsinbeta.com/2016/3/share-all-the-things</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2016/3/share-all-the-things</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Apple vs FBI</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;The United States government has demanded that Apple take an unprecedented step which threatens the security of our customers. We oppose this order, which has implications far beyond the legal case at hand.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;No matter what you think of Apple, their products, their services, etc. they are undeniably doing the right thing for &lt;em&gt;everyone&lt;/em&gt; by making this encryption battle very public, and very pro-encryption.&lt;/p&gt;
+
+&lt;p&gt;Ask any security expert and they will tell you there is no such thing as a backdoor “only good guys can use.”&lt;/p&gt;
+
+&lt;p&gt;Google? Amazon? Microsoft? The ball is in your court. I know you all hate each other but &lt;em&gt;this is a cause worth siding with Tim Cook and Apple on.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;http://www.apple.com/customer-letter/&quot;&gt;A Message to Our Customers&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Feb 2016 00:00:00 -0700</pubDate>
+        <link>http://lyonsinbeta.com/2016/2/apple-vs-fbi</link>
+        <guid isPermaLink="true">http://lyonsinbeta.com/2016/2/apple-vs-fbi</guid>
+        
+        
+      </item>
     
       <item>
         <title>Autodial Conference Line Extension</title>
@@ -63,167 +326,6 @@
         <pubDate>Tue, 09 Feb 2016 00:00:00 -0700</pubDate>
         <link>http://lyonsinbeta.com/2016/2/twitter-doesnt-need-an-algorithm</link>
         <guid isPermaLink="true">http://lyonsinbeta.com/2016/2/twitter-doesnt-need-an-algorithm</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>What Happens to Financial Aid When The Instructor Is Software?</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Rules for &lt;a href=&quot;http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&amp;amp;sid=0900b7322acc5a5a10c558b8fe15ad7b&amp;amp;rgn=div8&amp;amp;view=text&amp;amp;node=34:3.1.3.1.1.1.23.2&amp;amp;idno=34&quot;&gt;federal aid eligibility&lt;/a&gt; require “regular and substantive interaction” between students and instructors in distance education programs. That requirement does not apply to correspondence courses. Students typically initiate contact with their instructors in those courses, which often are self-paced.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I wonder what will happen once we finally nail adaptive learning and the “instructor” is software?&lt;/p&gt;
-
-&lt;p&gt;Source: &lt;a href=&quot;https://www.insidehighered.com/news/2016/01/15/education-departments-inspector-generals-high-stakes-audit-western-governors-u&quot;&gt;&lt;em&gt;The Faculty Role Online, Scrutinized&lt;/em&gt;&lt;/a&gt;, Inside Higher Ed&lt;/p&gt;
-</description>
-        <pubDate>Fri, 15 Jan 2016 00:00:00 -0700</pubDate>
-        <link>http://lyonsinbeta.com/2016/1/financial-aid-for-software</link>
-        <guid isPermaLink="true">http://lyonsinbeta.com/2016/1/financial-aid-for-software</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Road To Hell Is Paved With T-Mobile&#39;s Good Intentions</title>
-        <description>&lt;p&gt;I’ve been a T-Mobile customer for a while now and I’m very happy with their customer service and mostly happy with their cellular service. I love that they’re taking a stand as the “uncarrier” to challenge the status quo, but two recent moves, &lt;a href=&quot;http://www.t-mobile.com/offer/free-music-streaming.html&quot;&gt;Music Freedom free music streaming&lt;/a&gt; and &lt;a href=&quot;http://www.t-mobile.com/offer/binge-on-streaming-video.html&quot;&gt;Binge-On free video streaming&lt;/a&gt;, are hurting way more than they help.&lt;/p&gt;
-
-&lt;p&gt;Letting their customers stream music and video, historically bandwidth heavy, without counting toward data usage is great for &lt;em&gt;users&lt;/em&gt; and terrible for &lt;em&gt;net neutrality&lt;/em&gt;, which means this is actually &lt;strong&gt;bad&lt;/strong&gt; for users. In a &lt;a href=&quot;https://newsroom.t-mobile.com/issues-insights-blog/binge-on.htm&quot;&gt;press release from CEO John Legere &lt;/a&gt; he says&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“We’re leveling the playing field for every legit streaming video provider who wants to participate.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;but who decides what a “legit” streaming provider is? He continues:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;With Binge On, our doors are open to all streaming providers who want to participate.  We’ve proven our track record with Music Freedom. No one pays us, and we don’t pay them - and everyone wins – especially customers.  We’re not here to play favorites. Like Music Freedom, Binge On is open to any legit streaming service (with lawful content) out there – at absolutely no cost to them. They just need to contact us and work with us on the technical requirements, optimization for mobile viewing and confirm we can consistently identify their incoming music or video streams.  Content providers can learn more by going to www.T-Mobile.com/BingeOn.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There’s no doubt that users will be thrilled to stream Spotify and Netflix with abandon but if the uncarrier really wants to shake things up they should just give everyone a huge lump of data for a fair price and let us do whatever we want with it. Prioritizing services has many of the same damaging effects on the industry as prioritizing traffic and it’s potentially worse because users are likely to widely support it.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 20 Nov 2015 00:00:00 -0700</pubDate>
-        <link>http://lyonsinbeta.com/2015/11/t-mobiles-good-intentions</link>
-        <guid isPermaLink="true">http://lyonsinbeta.com/2015/11/t-mobiles-good-intentions</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>(un)Limited Storage!</title>
-        <description>&lt;p&gt;We need to get out of the habit of calling things “unlimited” that obviously aren’t. When Flickr gave itself a makeover they announced “1 Terabyte of storage” which in my opinion is a &lt;em&gt;better&lt;/em&gt; headline than “Unlimited storage” because 1TB actually means something and unlimited obviously doesn’t.&lt;/p&gt;
-
-&lt;p&gt;Microsoft previously announced unlimited storage for O365 subscribers and &lt;a href=&quot;https://blog.onedrive.com/onedrive_changes/&quot;&gt;has since had to renege&lt;/a&gt; when a user &lt;a href=&quot;http://www.zdnet.com/article/microsoft-reneges-on-unlimited-onedrive-storage-promise-for-office-365-subscribers/&quot;&gt;hilariously abused the unlimited storage&lt;/a&gt;. It’s not really abuse though, is it? You said “unlimited”, Microsoft, and now you’re upset that someone was foolish enough to take you at your word. There’s more than a few ways this situation could have been handled more delicately and I have a way to prevent it from ever happening again; &lt;em&gt;stop calling things unlimited.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;There are always limits, and companies having to take ownership of those limits means consumers can actually make informed decisions. Storage, bandwidth, etc., we all know these things have a cost, so let’s just be upfront about that reality and have a little transparency.&lt;/p&gt;
-
-&lt;p&gt;And don’t think I’ve forgotten about you, wireless carriers. If you want to avoid press like this&lt;/p&gt;
-&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Microsoft gets pissed at user with a 76 terabyte OneDrive, downgrades everyone to 1TB max, nerfs free tier to 5GB &lt;a href=&quot;https://t.co/tpLCGGy7nD&quot;&gt;https://t.co/tpLCGGy7nD&lt;/a&gt;&lt;/p&gt;&amp;mdash; SecuriTay (@SwiftOnSecurity) &lt;a href=&quot;https://twitter.com/SwiftOnSecurity/status/661403648723816449&quot;&gt;November 3, 2015&lt;/a&gt;&lt;/blockquote&gt;
-&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;But seriously, props to the user who figured out how to get the OneDrive client to work long enough to upload 76 TERABYTES of data.&lt;/p&gt;&amp;mdash; SecuriTay (@SwiftOnSecurity) &lt;a href=&quot;https://twitter.com/SwiftOnSecurity/status/661404298232795140&quot;&gt;November 3, 2015&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;you’re going to have to be honest about what your costs are, and what we’re getting for our money.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 02 Nov 2015 00:00:00 -0700</pubDate>
-        <link>http://lyonsinbeta.com/2015/11/unlimited-storage</link>
-        <guid isPermaLink="true">http://lyonsinbeta.com/2015/11/unlimited-storage</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>The College Loan Bubble</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/cshirky/status/660663748403662848&quot;&gt;Clay Shirky tweeted&lt;/a&gt; this &lt;a href=&quot;http://www.theawl.com/2015/10/there-is-no-college-bubble&quot;&gt;article by Malcolm Harris&lt;/a&gt; on why the College Loan Bubble™ isn’t a real bubble and will never pop. Near the end is this passage that made me pause (emphasis mine):&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The truth is that, although the college wage premium has increased in the past three decades or so, it’s not because young graduates are on average better off. Between 1986 and 2013, their median real annual earnings increased by less than $800. But over the same period, for those with no college, real earnings dropped by $2,525. &lt;strong&gt;The economic choice this country poses to young people about higher education has stopped being about opportunity for wealth—now it’s about fear of poverty. Empirically, the latter is a more effective motivator.&lt;/strong&gt; Whether or not this is an appropriate way to produce educated workers is, in theory, a question for our democracy.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Higher education was never supposed to be about job training, but due to a variety of factors over many years that is what it became. Unfortunately for higher ed, one of the most rapidly growing sectors in this country is technology. And that sector’s reliance on, and reverence for, the college degree is at an all time low and dropping.&lt;/p&gt;
-
-&lt;p&gt;The bubble may not exist and may never burst, but more and more of those dollars are probably going to go into dev bootcamps and out of traditional universities.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 31 Oct 2015 00:00:00 -0600</pubDate>
-        <link>http://lyonsinbeta.com/2015/10/the-college-loan-bubble</link>
-        <guid isPermaLink="true">http://lyonsinbeta.com/2015/10/the-college-loan-bubble</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let They Who Are Without Downtime Cast the First Stone</title>
-        <description>&lt;p&gt;I’ve (begrudgingly) been a Comcast customer for a long time and I have outages roughly one per month or more. So do &lt;a href=&quot;https://twitter.com/hashtag/comcastoutage&quot;&gt;a lot of other people&lt;/a&gt;. So it’s pretty tone deaf of Comcast to tweet this:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/post-images/comcast-google-fiber-tweet.jpg&quot; alt=&quot;@Xfinity on twitter: &amp;quot;Google Fiber whiffs. Outage caused Kansas City customers to miss part of World Series game. Outage cause unclear.&amp;quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Note: @xfinity has since deleted this promoted tweet.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Particularly considering the fact that &lt;a href=&quot;http://www.pcmech.com/article/google-fiber-goes-down-in-kc-during-world-series-gives-customers-2-days-credit/&quot;&gt;Google apologized and credited effected customers for the outage&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We’re all waiting for our checks, Comcast.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Via &lt;a href=&quot;https://twitter.com/pwnela/status/660269644369010692&quot;&gt;@pwnela on twitter&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 30 Oct 2015 00:00:00 -0600</pubDate>
-        <link>http://lyonsinbeta.com/2015/10/let-they-who-are-without-downtime</link>
-        <guid isPermaLink="true">http://lyonsinbeta.com/2015/10/let-they-who-are-without-downtime</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Don&#39;t Lecture Me. Really.</title>
-        <description>&lt;p&gt;I’m as big a fan of &lt;a href=&quot;http://www.nytimes.com/2015/10/18/opinion/sunday/lecture-me-really.html&quot;&gt;unsubstantiated anecdotal arguments&lt;/a&gt; as anyone but deciding you’re not willing to give up lecturing doesn’t suddenly make it a quality learning experience.&lt;/p&gt;
-
-&lt;p&gt;Molly Worthen almost admits as much herself near the end of the article (emphasis mine):&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Note-taking is important partly for the record it creates, &lt;strong&gt;but let’s be honest. Students forget most of the facts we teach them not long after the final exam, if not sooner.&lt;/strong&gt; The real power of good notes lies in how they shape the mind.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Read &lt;a href=&quot;http://www.nytimes.com/2015/10/18/opinion/sunday/lecture-me-really.html&quot;&gt;Lecture Me. Really.&lt;/a&gt; on nytimes.com.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Oct 2015 00:00:00 -0600</pubDate>
-        <link>http://lyonsinbeta.com/2015/10/dont-lecture-me-really</link>
-        <guid isPermaLink="true">http://lyonsinbeta.com/2015/10/dont-lecture-me-really</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Apple Hates the Mouse</title>
-        <description>&lt;p&gt;Today Apple released a new keyboard, trackpad, and &lt;a href=&quot;http://www.apple.com/shop/product/MLA02/magic-mouse-2&quot;&gt;magic mouse&lt;/a&gt;. They all have internal batteries, recharge via lightning cable, and the trackpad and keyboard have been improved over the already excellent previous models.&lt;/p&gt;
-
-&lt;p&gt;The Magic Mouse 2, however, is actually worse. They fixed none of the original issues around terrible ergonomics and an unpleasant click area, and they &lt;em&gt;added&lt;/em&gt; two new drawbacks; it doesn’t have 3D Touch (the Magic Trackpad 2 does) and you can’t use it while charging because the port is on the &lt;em&gt;bottom.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;We get it Apple, you hate mice. You’re all in on the trackpad. That’s fine. You make excellent trackpads. Maybe just give up on the mouse altogether. &lt;a href=&quot;https://en.wikipedia.org/wiki/Apple_USB_Mouse&quot;&gt;They are clearly not your strong suit anyway.&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 13 Oct 2015 00:00:00 -0600</pubDate>
-        <link>http://lyonsinbeta.com/2015/10/apple-hates-the-mouse</link>
-        <guid isPermaLink="true">http://lyonsinbeta.com/2015/10/apple-hates-the-mouse</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>HBO Now on Android (Sucks)</title>
-        <description>&lt;p&gt;HBO Now, HBO’s admission that most people don’t want cable, launched as an iOS exclusive 3 months ago. If you don’t have an iOS device, and weren’t sneaky enough to use a friend’s to setup your account then watch on a laptop, you’ve been sadly waiting all this time. But the wait is over! HBO Now is &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.hbo.hbonow&quot;&gt;available on Google Play&lt;/a&gt; and it’s a really kind of pathetic port.&lt;/p&gt;
-
-&lt;p&gt;Unlike it’s older sibling, HBO Go, HBO Now on android doesn’t have Chromecast support, and for some reason blocks anyone with a rooted device from &lt;em&gt;even installing it.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The reviews are already pouring in, and they are not happy.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/post-images/hbo-now-reviews.png&quot; alt=&quot;Less than favorable HBO Now reviews on Google Play&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Get it together, HBO.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 16 Jul 2015 00:00:00 -0600</pubDate>
-        <link>http://lyonsinbeta.com/2015/07/hbo-now-on-android</link>
-        <guid isPermaLink="true">http://lyonsinbeta.com/2015/07/hbo-now-on-android</guid>
         
         
       </item>
