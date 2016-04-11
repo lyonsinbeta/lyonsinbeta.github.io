@@ -8,7 +8,7 @@ As of this writing, I've been podcasting for over two years and [running a podca
 
 Podcasting is a lot of work. And most of it happens before and after you get on the mic. Thanks to podcasting suddenly becoming cool (thanks, Serial!) lots of startups and apps and services have started to pop up trying to make podcasting easier in one way or another. Come to think of it the two-year anniversary episode of Flipping Tables [covered a bunch of them](http://sunriserobot.net/flippingtables/104/) including one I ended up experimenting with: [Briefs.fm](https://briefs.fm).
 
-Briefs.fm's tagline is "A podcast you'll actually publish" and they say their differentiator is that
+Briefs.fm's tag line is "A podcast you'll actually publish" and they say their differentiator is that
 
 > "Episodes are limited to three minutes, published by email, and still sound amazing even when recorded on your phone."
 
@@ -71,13 +71,13 @@ Here are all six episodes, unprocessed first and auphonic'd second:
 
 \#2 doesn't sound really any different but the levels were brought up which is expected. It didn't need anything else and the algorithm correctly left it alone.
 
-\#3 and #4 are similar except in #4 I am holding the phone much closer to my mouth so auphonic was able to boost my voice while still trying to supress road noise, though it can't do much about wind on a mic that has no wind screen. These tests were probably the most taxing on Auphonic.
+\#3 and #4 are similar except in #4 I am holding the phone much closer to my mouth so auphonic was able to boost my voice while still trying to suppress road noise, though it can't do much about wind on a mic that has no wind screen. These tests were probably the most taxing on Auphonic.
 
 \#5 is so quiet as to be unusable, but auphonic did a great job of bringing the levels up. Couldn't do much about de-essing though which is a strong indicator that mic technique still matters.
 
 \#6 also had the levels brought up nicely without sending it into compression hell. A little bit of room noise still rings in the background (my voice tends to bounce of walls quite a lot) but a little room noise isn't necessarily a terrible thing.
 
-Across the board Auphonic does a good job of bringing the voice level up, and brining the ambient noise level down. It also compressed the files in a way that seems pretty optimized for voice, as the processed files are substantially smaller. In the case of the Zoom it went from 18 MB to just 1.1 MB.
+Across the board Auphonic does a good job of bringing the voice level up, and bringing the ambient noise level down. It also compressed the files in a way that seems pretty optimized for voice, as the processed files are substantially smaller. In the case of the Zoom it went from 18 MB to just 1.1 MB.
 
 ## The Conclusion
 
