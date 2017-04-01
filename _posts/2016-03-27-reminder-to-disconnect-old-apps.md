@@ -15,3 +15,13 @@ Here are direct links to the page in question for the services you most likely u
 - [Facebook](https://www.facebook.com/settings?tab=applications)
 
 Pro tip: Anything you don't recognize should almost definitely get the ax. Also any game you "totally plan to get back into."
+
+**Update 2017-04-01**
+
+I thought I'd share my own stats since I reshare this post every so often. During this most recent purge I disconnected:
+
+- Google - 4
+- Facebook - 2
+- Twitter - 5
+
+Mostly old games or third-party clients (because sometimes the primary app sucks, _Twitter_) but there were a few acquired companies in there too for apps I don't even use anymore, and I definitely don't want that connection open for no good reason.
