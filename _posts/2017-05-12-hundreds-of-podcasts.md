@@ -15,4 +15,4 @@ When Mike and I first started Flipping Tables and published episode 000 (why did
 - 31 episodes of [The Pseudo Show](http://sunriserobot.net/pseudoshow)
 - 19 episodes of [Some Pulp](http://sunriserobot.net/somepulp)
 
-**345 episodes** our small team produced in three years. And that's a big number _if_ taken all at once, but averaged out it's only 2.2 episodes/week. For "two people talking" style podcasts like the ones on Sunrise Robot that's a really managable amount of work session by session that only seems unmanageable in aggregate. It can suck [starting over with episode 1](http://nostalgiagoggles.audio/1) (fool me once!) but taken day by day it's not so bad.
+**345 episodes** our small team produced in three years. And that's a big number _if_ taken all at once, but averaged out it's only 2.2 episodes/week. For "two people talking" style podcasts like the ones on Sunrise Robot that's a really managable amount of work session by session that only seems unmanageable in aggregate. It can suck [starting over with episode 1](http://www.nostalgiagoggles.audio/1) (fool me once!) but taken day by day it's not so bad.
