@@ -24,13 +24,13 @@ The article goes on to highlight some possibly justifiable sour grapes from Retr
 All of this leaves me asking: SEGA... what the hell? All you had to do was pick any of a dozen emulators and sell them to us or slap some ads in there. Cloud saves are cool (and the emulators already support controllers) but [nostalgia goggles](http://www.nostalgiagoggles.audio) will make people play classic games _without_ enhancements. Instead of a super slick emulator experience what you end up with is this mess:
 
 <div style="text-align: center">
-<img src="/post-images/sega-forever1.png" width="50%" alt="" />
-<img src="/post-images/sega-forever2.png" width="50%" alt="" />
-<img src="/post-images/sega-forever3.png" width="50%" alt="" />
-<img src="/post-images/sega-forever4.png" width="50%" alt="" />
-<img src="/post-images/sega-forever5.png" width="50%" alt="" />
-<img src="/post-images/sega-forever6.png" width="50%" alt="" />
-<img src="/post-images/sega-forever7.png" width="50%" alt="" />
+<img src="/post-images/sega-forever1.png" width="50%" alt="Sonic the Hedgehog title screen" />
+<img src="/post-images/sega-forever2.png" width="50%" alt="Ad #1" />
+<img src="/post-images/sega-forever3.png" width="50%" alt="New Game screen and ad #2" />
+<img src="/post-images/sega-forever4.png" width="50%" alt="Character select screen and ad #3" />
+<img src="/post-images/sega-forever5.png" width="50%" alt="Sonic the Hedgehog actual title screen" />
+<img src="/post-images/sega-forever6.png" width="50%" alt="Act 1 complete" />
+<img src="/post-images/sega-forever7.png" width="50%" alt="Ad #4" />
 </div>
 
 In the 60ish seconds it took me to open the game and finish Act 1 of Green Hill Zone I got to enjoy _four ads_, two of which are video ads with countdown-to-skip timers which I'm sure generates huge numbers of mistaps.
