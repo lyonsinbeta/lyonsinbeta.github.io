@@ -14,6 +14,8 @@ This is exactly what I have been waiting for. My wife is the shutterbug of the f
 
 And that extra bit of smart design has made all the difference. These photos aren't just visible to me, they are now _part of my library_ which means Google Photos treats them like any other photo in my library and backs them up (never hurts to have more backups), creates collages and movies and animations, and makes them searchable. The day after we set this up I got _twenty_ notifications* from the Google Photos Assistant that all manner of adorable baby photos I'd never seen before had been artfully arranged for me.
 
-Google has done something far better than just shared libraries. We take pictures of all kinds of things with our phones like where we parked or the model number of something we might buy; I don't need to see or share all that noise. If you have any loved ones and you wish sharing photos could be automatic, now it is. [Go set shared libraries up right now](https://support.google.com/photos/answer/7378858).
+Google has done something far better than just shared libraries. We take pictures of all kinds of things with our phones like where we parked or the model number of something we might buy; I don't need to see or share all that noise. If you have any loved ones and you wish sharing photos could be automatic, now it is.
 
-_*Actually one notification than twenty items were ready for review, which is also an appreciated bit of design thinking._
+[Go set shared libraries up right now](https://support.google.com/photos/answer/7378858).
+
+_*Actually one notification that twenty items were ready for review, which is also an appreciated bit of design thinking._
