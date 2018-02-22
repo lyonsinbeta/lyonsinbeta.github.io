@@ -16,7 +16,7 @@ It's pretty typical for people in the tech industry to complain about technology
 
 _Though I will never get tired of watching that._
 
-No, to me the most marvelous part of it all was that I happened to be with my wife and we were able to watch the whole thing **from my phone while flying in a plane.** People in the sky, using their magic glass rectangles, to watch synchronized rocket landings that sent a Tesla to Mars.
+No, to me the most marvelous part of it all was that I happened to be with my wife and we were able to watch the whole thing live **from my phone while flying in a plane.** People in the sky, using their magic glass rectangles, to watch synchronized rocket landings that sent a Tesla to Mars.
 
 <img src="/post-images/falcon-heavy-launch-3.png" width="100%" alt="Starman in his Tesla heading to Mars" />
 
