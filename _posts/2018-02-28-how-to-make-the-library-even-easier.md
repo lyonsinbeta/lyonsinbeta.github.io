@@ -10,7 +10,7 @@ Public libraries, one of society's greatest contributions to knowledge sharing, 
 2. "Prove" you live on more or less the same planet
 3. Get (very nearly) free and unlimited access to books, movies, the internet, and way more
 
-Easy as that is, it's hard to argue with the convenience of mashing "Buy Now" on Amazon and having books sent wirelessly to your devices, or ~thrown indifferently~ placed gently at your door by a nice stranger. Enter [Library Extension](https://chrome.google.com/webstore/detail/library-extension/chkgcmmjoejpekoegkedcpifgfhpjmec).
+Easy as that is, it's hard to argue with the convenience of mashing "Buy Now" on Amazon and having books sent wirelessly to your devices, or ~~thrown indifferently~~ placed gently at your door by a nice stranger. Enter [Library Extension](https://chrome.google.com/webstore/detail/library-extension/chkgcmmjoejpekoegkedcpifgfhpjmec).
 
 <a href="https://chrome.google.com/webstore/detail/library-extension/chkgcmmjoejpekoegkedcpifgfhpjmec" title="Library Extension"><img src="/post-images/library-extension.png" width="100%" alt="Screenshot of Library Extension download page" /></a>
 I ❤️ you so much, Library Extension.
