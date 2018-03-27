@@ -5,10 +5,8 @@ layout: post
 permalink: /2018/3/zucked-over
 ---
 
-<video width="640" controls>
-  <source src="/post-video/Zucked_Over.webm" type="video/webm>
-  <source src="/post-video/Zucked_Over.mp4" type="video/mp4"
-  <p>Your browser doesn't support HTML5 video. 😭</p>
+<video width="640" controls src="/post-video/Zucked_Over.mp4" type="video/mp4">
+<p>Your browser doesn't support HTML5 video. 😭</p>
 </video>
 
 **2009**
