@@ -1,5 +1,5 @@
 ---
-title: "You Can't Trust Video Anymore"
+title: "Weapons of Math Destruction"
 author: David
 layout: post
 permalink: /2018/5/weapons-of-math-destruction
