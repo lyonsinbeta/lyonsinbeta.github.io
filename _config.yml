@@ -11,7 +11,7 @@ sidebar-title:    'Lyons<sup> beta</sup>'
 tagline:          'By David Lyons'
 description:      'Educational technologist. Podcaster. Speaker. Trying to do some good.'
 url:              https://www.lyonsinbeta.com
-baseurl:          ''
+baseurl:          '/'
 google-analytics: 'UA-44733266-1'
 
 author:
