@@ -33,6 +33,6 @@ It's simple to setup too, from [Google's webmaster tools site](https://support.g
 Side note about the profile URL: custom URLs only partially work. Even though `google.com/+DavidLyons` will take you to my profile, the authorship feature only works with `plus.google.com/+DavidLyons`.
 
 You can check if it's setup correctly, and see what it will look like, using the [Structured Data Tool](http://www.google.com/webmasters/tools/richsnippets)
-![Google Authorship Preview]({{ site.baseurl }}/post-images/google-authorship.png)
+![Google Authorship Preview](//post-images/google-authorship.png)
 
 Just what the internet needs, more of my face.
