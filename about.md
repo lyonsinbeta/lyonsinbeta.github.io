@@ -1,11 +1,12 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-David Lyons has been working in academic technology since 2006 and has served at four different institutions of higher education. Currently he is a Solutions Engineer for Canvas by Instructure.
+Hello! 👋 I'm David Lyons, an educational technologist, podcaster, speaker, and occasional kung fu practitioner.
 
-David is also a co-founder of [Sunrise Robot](http://sunriserobot.net), a podcast network for geeks. When not behind a keyboard or microphone he can be found behind a controller, hiking, or practicing Kung fu.
+Currently working as a Senior Solutions Engineer at [Instructure](https://instructure.com).
 
-<p>Strike up a conversation with me on <a href="http://twitter.com/{{site.twitter_username}}">twitter</a>, or <a href="http://google.com/+{{site.googleplus_username}}">Google+</a>.</p>
+I host and produce [Nostalgia Goggles](http://nostalgiagoggles.audio), a podcast where my best friend and I replay the games of our childhood to see if they're as good as we remember. I also produce [Eclectic Readers Book Club](https://eclecticreaders.fireside.fm/), a monthly book club podcast that reads an eclectic variety of books and discusses them, and [Movie Medicine](http://www.moviemedicinepodcast.com), a podcast that explores how Hollywood portrays injury and illness in horror, action, and video game movies. If you would like to support these shows you can slide on in to my [Patreon](https://www.patreon.com/lyonsinbeta).
+
+I also founded the podcast network [Sunrise Robot](https://sunriserobot.net) (now retired) with [Michael Edwards](https://pseudomichael.com/) which is still available as an archive if you want to hear me on [Flipping Tables](https://sunriserobot.net/flippingtables).

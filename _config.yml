@@ -1,13 +1,35 @@
-# Site settings
-title: Lyons in Beta
-email: hello@davidlyons.net
-description:
-baseurl: ""
-url: "http://lyonsinbeta.com"
-twitter_username: lyonsinbeta
-googleplus_username: DavidLyons
-github_username:  lyonsinbeta
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+# Permalinks
+permalink:        /:year/:i_month/:title
+
+# Setup
+title:            'Lyons in Beta'
+sidebar-title:    'Lyons<sup> beta</sup>'
+tagline:          'By David Lyons'
+description:      'Educational technologist. Podcaster. Speaker. Trying to do some good.'
+url:              https://www.lyonsinbeta.com
+baseurl:          /
+google-analytics: 'UA-44733266-1'
+
+author:
+  name:           'David Lyons'
+  social:
+    - twitter:
+      name:       'Twitter'
+      url:        'https://twitter.com/lyonsinbeta'
+    - github:
+      name:       'Github'
+      url:        'https://github.com/lyonsinbeta'
+    - nostalgiagoggles:
+      name:       'Podcast'
+      url:        'http://nostalgiagoggles.audio'
+
+paginate:         20
+
+plugins:
+  - jekyll-paginate
+  - jekyll-watch
+  - jekyll-sitemap
