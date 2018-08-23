@@ -8,7 +8,7 @@ categories:
 tags:
   -
 ---
-![Heroku opt-out default]({{site.baseurl}}/post-images/heroku-opt-out-default.png)
+![Heroku opt-out default](/post-images/heroku-opt-out-default.png)
 
 I got this email from Heroku recently and it made me smile. I don't use Heroku heavily so I don't really want a lot of email from them and it turns out _they don't want to bother people who didn't ask to be bothered_. What a novel concept.
 
