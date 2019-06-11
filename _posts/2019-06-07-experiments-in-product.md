@@ -10,7 +10,7 @@ Most (great) product features come from a deep understanding of customers' probl
 Sometimes the stars align and a conversation with an insightful person includes an offhanded "wouldn't it be neat" comment that's small enough to quickly prototype and test. And those are just the circumstances that led to this experiment: Module Filters.
 
 ## Behold! Content filters!
-<video width="100%" controls src="/post-video/module_filters.mp4" type="video/mp4" autoplay loop>
+<video width="100%" src="/post-video/module_filters.mp4" type="video/mp4" autoplay loop>
 <p>Your browser doesn't support HTML5 video. 😭</p>
 </video>
 
