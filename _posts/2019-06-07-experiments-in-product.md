@@ -3,7 +3,7 @@ title: "Experiments in Product: Canvas Module Filters"
 layout: post
 ---
 
-_**Disclaimer:** This is a personal project, and is not endorsed by Instructure or Canvas LMS._
+_**Disclaimer:** This is a personal project, and is not endorsed by Instructure or Canvas LMS. [Custom JavaScript must be maintained by the institution](https://community.canvaslms.com/docs/DOC-10862-4214724282)._
 
 Most (great) product features come from a deep understanding of customers' problems. It's tempting to build every "good" or "obvious" feature someone can describe passionately but that leads to thoughtless bloat that breaks the UX. And most things people describe as "obvious" actually have 10,000 questions between the comment and a well researched/tested feature.
 
